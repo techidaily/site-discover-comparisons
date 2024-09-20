@@ -1,7 +1,7 @@
 ---
 title: Mirillis Releases Latest Updates in Their Official Press Center
-date: 2024-09-18 13:35:25
-updated: 2024-09-20 12:44:13
+date: 2024-09-14T00:31:52.658Z
+updated: 2024-09-19T23:54:00.220Z
 tags:
   - product
 categories:
@@ -688,6 +688,13 @@ The Mirillis latest news, products and events.
 
 07/07/2021 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Action! 4.20.1 with important improvements is now available!
 
 **What's new in Action! 4.20.1?**
@@ -939,6 +946,13 @@ Read more about YouTube HDR Live Broadcasting below:
 
 ![News - Action! screen and game recorder](https://mirillis.com/res/old/media/images/news/action-screen-and-game-recorder.jpg "Action! 4.13.0 with HDR10+ recording is now available!") 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 10/11/2020 
 
 ### Action! 4.13.0 with HDR10+ recording is now available!
@@ -988,6 +1002,13 @@ Read more about YouTube HDR Live Broadcasting below:
 [Read more and download the latest Action! version](https://tools.techidaily.com/mirillis/products/)
 
 ![News - Action! screen and game recorder](https://mirillis.com/res/old/media/images/news/action-screen-and-game-recorder.jpg "Action! 4.12.0 with YouTube HLS streaming is now available!") 
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 05/10/2020 
 
@@ -1119,6 +1140,13 @@ Sending this file to Mirillis support team will shorten the time needed to resol
 
 25/06/2020 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Action! 4.10.0 with 8K recording and multiple displays in one video is now available!
 
 **What's new in Action! 4.10.0?**
@@ -1237,6 +1265,13 @@ We advise to record/stream Vulkan applications in Game mode (capturing Vulkan in
 [Read more and download the latest Action! version](https://tools.techidaily.com/mirillis/products/)
 
 ![News - Action! screen and game recorder](https://mirillis.com/res/old/media/images/news/action-screen-and-game-recorder.jpg "Action! 4.4.0 with improved HDR10 recording is now available!") 
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 27/03/2020 
 
@@ -2646,8 +2681,6 @@ We are proud to announce that new Action! 2.0 is now available, with refreshed l
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

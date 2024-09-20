@@ -1,7 +1,7 @@
 ---
 title: Save Favorite YouTube Clips as MP4 or MP3 Files – Quick Guide for Mac and Windows Users
-date: 2024-09-19 13:25:22
-updated: 2024-09-20 11:28:46
+date: 2024-09-18T00:51:31.886Z
+updated: 2024-09-20T04:50:12.773Z
 tags:
   - product
 categories:
@@ -42,13 +42,40 @@ Free download the professional YouTube Favorites Downloader - Allavsoft ([for Wi
 
 [![](https://www.allavsoft.com/how-to/../images/how-to/free-download-win.jpg)](https://tools.techidaily.com/allavsoft/products/) [![](https://www.allavsoft.com/how-to/../images/how-to/free-download-mac.jpg)](https://tools.techidaily.com/allavsoft/products/)
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![YouTube Favorites Downloader](https://www.allavsoft.com/how-to/../images/allavsoft/screen-shot-600.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 1 Import YouTube Channel URL
 
 Go to YouTube website and log in to your favorites. Copy your favorites video URL to Allavsoft. And then a pop up window will appear to ask whether you want to download all the favorites videos or the first video in the favorites. Choose one as per your need. And if you want to download part of the favorites videos check to download all the favorites videos option and then uncheck the video URLs that you do not want to download.
 
 ![How to Download YouTube favorites Video to MP4?](https://www.allavsoft.com/how-to/../images/how-to/download-rtmp-video/download-rtmp-video.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049369/7443" target="_top" id="2049369">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049369" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049369/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 2 Set final output format (Optional)
 
@@ -63,8 +90,6 @@ Click "Download" button to complete downloading YouTube YouTube favorites videos
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"

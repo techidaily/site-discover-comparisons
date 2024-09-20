@@ -1,7 +1,7 @@
 ---
 title: Innovative Automated Chroma Key Solution for Seamless Background Erasure in Webcam Recordings
-date: 2024-09-17 14:25:56
-updated: 2024-09-20 12:27:59
+date: 2024-09-16T01:25:46.637Z
+updated: 2024-09-20T04:21:01.627Z
 tags:
   - product
 categories:
@@ -40,6 +40,13 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
 
 ![Mirillis Action! - Adjust webcam settings](https://mirillis.com/res/old/gfx/tutorials/chroma-key/3mirillis-action-webcam-preview.jpg "Adjust webcam size and position") 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Enable Alpha mask
 
  When Chroma Key setup is done and you are happy about the results, please check Use alpha mask option. With this option your webcam picture will be additionally clipped with a curved mask to fit your webcam picture even better to final video recordings. 
@@ -48,15 +55,18 @@ thumbnail: https://thmb.techidaily.com/04715cc01635128f130003aeefa217d9440724157
 
 ![Mirillis Action! - Gameplay recording](https://mirillis.com/res/old/gfx/tutorials/chroma-key/mirillis-action-webcam-recording-with-chroma-key-and-alpha-mask.jpg "Gameplay recording") 
 
-
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
