@@ -1,7 +1,7 @@
 ---
 title: "Explore the Power of Vue + Laravel for Robust UI Dashboards: Professional PRO Tutorial Using JSON API | Inspired by Creative Tim"
-date: 2024-09-21T17:28:38.720Z
-updated: 2024-09-25T16:27:01.439Z
+date: 2024-09-25T01:12:40.798Z
+updated: 2024-09-29T19:12:13.706Z
 tags:
   - product
 categories:
@@ -20,19 +20,25 @@ thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391d
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -54,19 +60,16 @@ thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-mobile-marketers-blueprint-simple-pathway-to-youtube-success/"><u>[Updated] In 2024, The Mobile Marketer's Blueprint Simple Pathway to YouTube Success</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/boost-your-pcs-gaming-performance-with-the-fresh-release-of-nvidian-game-ready-windows-drivers/"><u>Boost Your PC's Gaming Performance with the Fresh Release of Nvidia'n Game-Ready Windows Drivers</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/guide-converting-box-movie-files-to-common-formats-like-mp4-and-mp3-for-pcmac-users/"><u>Guide: Converting Box Movie Files to Common Formats Like MP4 & MP3 for PC/Mac Users</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/guide-converting-keezmovies-downloads-into-mp4movavi-formats/"><u>Guide: Converting KeezMovies Downloads Into MP4/MOV/AVI Formats</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/guide-downloading-and-transforming-national-geographic-media-into-mp4-for-no-cost/"><u>Guide: Downloading and Transforming National Geographic Media Into MP4 for No Cost</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-3-easy-methods-to-unlock-icloud-locked-iphone-7-plusipadipod-by-drfone-ios/"><u>In 2024, 3 Easy Methods to Unlock iCloud Locked iPhone 7 Plus/iPad/iPod</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-mastering-video-production-with-chroma-key-techniques/"><u>In 2024, Mastering Video Production with Chroma Key Techniques</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-complete-iphone-audio-downloading-manual/"><u>In 2024, The Complete iPhone Audio Downloading Manual</u></a></li>
-<li><a href="https://win-able.techidaily.com/league-of-legends-connectivity-fix-overcoming-the-reconnection-glitch-of-202n4/"><u>League of Legends Connectivity Fix - Overcoming the Reconnection Glitch of 202N4</u></a></li>
-<li><a href="https://win-special.techidaily.com/make-windows-11-feel-familiar-tips-to-retain-windows-10-like-experience/"><u>Make Windows 11 Feel Familiar: Tips to Retain Windows 10-Like Experience</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/save-your-videos-as-various-files-mp4-mov-avi-flv-wmv-mkv-and-more/"><u>Save Your Videos as Various Files (MP4, MOV, AVI, FLV, WMV, MKV, & More)</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/step-by-step-guide-downloading-and-converting-bebo-songs-into-audio-formats-like-mp3-and-mp4/"><u>Step-by-Step Guide: Downloading and Converting Bebo Songs Into Audio Formats Like MP3 & MP4</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/step-by-step-tutorial-for-saving-shows-from-svtplayse-as-mp4-avi-or-mov-files/"><u>Step-by-Step Tutorial for Saving Shows From SvtPlay.se as MP4, AVI or MOV Files</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/ways-to-find-unlocking-codes-for-realme-11-pro-phones-by-drfone-android/"><u>Ways To Find Unlocking Codes For Realme 11 Pro Phones</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-benq-sw320-monitor-review-a-leap-into-4k-territory/"><u>[New] BenQ SW320 Monitor Review A Leap Into 4K Territory</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-from-novice-to-pro-mastering-the-craft-of-yt-shorts/"><u>2024 Approved From Novice to Pro Mastering the Craft of YT Shorts</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/explore-more-than-94-customizable-ui-frameworks-from-creative-tims-libraries/"><u>Explore More than 94 Customizable UI Frameworks From Creative Tim's Libraries</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 6s Plus</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-the-latest-apple-books-app-experience/"><u>In-Depth Analysis: The Latest Apple Books App Experience</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/premium-django-admin-suite-with-bootstrap-ebastion-blackdashboard-pro-by-creative-tim/"><u>Premium Django Admin Suite with Bootstrap Ebastion | Blackdashboard PRO by Creative Tim</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/professional-enterprise-level-tailwind-plus-nextjs-dashboard-template-exclusive-creativesim/"><u>Professional Enterprise-Level Tailwind + Next.js Dashboard Template - Exclusive Creativesim</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/professional-vuejs-and-bootstrap-4-admin-panel-advanced-dashboard-design-by-creative-tim/"><u>Professional Vue.js & Bootstrap 4 Admin Panel - Advanced Dashboard Design by Creative Tim</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/savor-the-magic-of-svelte-get-free-starter-kits-from-creative-tim/"><u>Savor the Magic of Svelte – Get Free Starter Kits From Creative Tim!</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-honor-100-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Honor 100 IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/watching-music-unfold-spotifys-latest-addition-of-official-song-videos/"><u>Watching Music Unfold: Spotify's Latest Addition of Official Song Videos</u></a></li>
 </ul></div>
 
