@@ -1,7 +1,7 @@
 ---
 title: Vue.js Free Designs and Plugins - Over 30 Options From Creative Tim
-date: 2024-09-27T04:06:17.364Z
-updated: 2024-09-29T19:59:56.811Z
+date: 2024-10-04T16:17:48.502Z
+updated: 2024-10-05T20:48:11.297Z
 tags:
   - product
 categories:
@@ -20,19 +20,19 @@ thumbnail: https://thmb.techidaily.com/65d11e70a3e2b524202510534160699ecec295d81
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -54,20 +54,22 @@ thumbnail: https://thmb.techidaily.com/65d11e70a3e2b524202510534160699ecec295d81
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-quick-tips-how-to-record-and-keep-a-transcript-of-your-google-voice-calls/"><u>[New] 2024 Approved Quick Tips How to Record and Keep a Transcript of Your Google Voice Calls</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-amplify-your-insta-impact-essential-5-lessons-for-influencers-and-real-life-proofs/"><u>[New] In 2024, Amplify Your Insta Impact Essential 5 Lessons for Influencers & Real-Life Proofs</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-pixelpilot-w11-lightweight-screenshot-and-recording-app/"><u>[Updated] PixelPilot W11 Lightweight Screenshot & Recording App</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-navigating-audacitys-volume-dissipation-features/"><u>2024 Approved Navigating Audacity's Volume Dissipation Features</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/convert-and-save-your-favorite-smh-content-how-to-download-videos-from-smhcomau-as-mp4-files/"><u>Convert and Save Your Favorite SMH Content: How to Download Videos From smh.com.au as MP4 Files</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/converting-your-favorite-8tracks-playlists-into-various-formats-like-mp3-and-aac-for-pcmac/"><u>Converting Your Favorite 8Tracks Playlists Into Various Formats Like MP3 & AAC for PC/Mac</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/defeating-windows-update-hurdles-expert-strategies-to-address-error-0x8024a105/"><u>Defeating Windows Update Hurdles: Expert Strategies to Address Error 0X8024a105</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/download-and-enjoy-comprehensive-archive-of-fxstreets-educational-webinars-and-live-trading-sessions/"><u>Download & Enjoy: Comprehensive Archive of FXStreet's Educational Webinars and Live Trading Sessions!</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/download-lecture-videos-from-videolecturesnet-as-mp4-files-easy-guide/"><u>Download Lecture Videos From VideoLectures.net as MP4 Files - Easy Guide</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/easy-tips-for-accessing-and-saving-botiss-academy-video-lectures-on-your-pc-or-mac/"><u>Easy Tips for Accessing and Saving Botiss Academy Video Lectures on Your PC or Mac</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/guide-convert-and-download-mjs-iconic-albums-in-mp3-flac-and-wav-formats/"><u>Guide: Convert and Download MJ's Iconic Albums in MP3, FLAC & WAV Formats</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-design-a-post-that-sparks-wide-scale-interest-in-fb-giving/"><u>In 2024, How to Design a Post That Sparks Wide-Scale Interest in FB Giving</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-iphone-12-pro-max-apples-new-iphone-drfone-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 12 Pro Max, Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://ai-topics.techidaily.com/what-is-ai-api-in-2024/"><u>What Is AI API, In 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-xiaomi-redmi-note-12r-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Xiaomi Redmi Note 12R Has Black Screen of Death? | Dr.fone</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-consistent-viewing-automatic-youtube-video-playback-on-tv/"><u>[New] Consistent Viewing Automatic YouTube Video Playback on TV</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-mastering-the-art-of-engaging-facebook-video-ads/"><u>[Updated] Mastering the Art of Engaging Facebook Video Ads</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/1-troubleshooting-tips-resolving-screen-and-sound-problems-in-apowerrec/"><u>1. Troubleshooting Tips: Resolving Screen & Sound Problems in ApowerREC</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726028673131-xperia/"><u>曲を認識しないXperia音楽プレイヤーの問題と解決策</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/ace-image-enhancement-software-your-go-to-virtual-studio-backdrop-editor/"><u>Ace Image Enhancement Software: Your Go-To Virtual Studio Backdrop Editor</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/best-top-3-iphone-project-management-apps-a-comprehensive-guide/"><u>Best Top 3 iPhone Project Management Apps: A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/effortless-methods-for-reducing-jpeg-image-size-a-free-guide/"><u>Effortless Methods for Reducing JPEG Image Size: A Free Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/elevate-your-warzone-experience-expert-fixes-for-increasing-fps-and-reducing-stutters/"><u>Elevate Your Warzone Experience - Expert Fixes for Increasing FPS and Reducing Stutters!</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/how-to-effortlessly-stream-your-pubg-mobile-matches-directly-from-computermobile-devices-to-youtube/"><u>How to Effortlessly Stream Your PUBG Mobile Matches Directly From Computer/Mobile Devices to YouTube</u></a></li>
+<li><a href="https://techidaily.com/how-to-soft-reset-xiaomi-redmi-note-12-5g-phone-drfone-by-drfone-reset-android-reset-android/"><u>How to Soft Reset Xiaomi Redmi Note 12 5G phone? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-stop-my-spouse-from-spying-on-my-xiaomi-redmi-k70e-drfone-by-drfone-virtual-android/"><u>How to Stop My Spouse from Spying on My Xiaomi Redmi K70E | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-android-mac-video-archiving-a-snap-solution-guide/"><u>In 2024, Android-Mac Video Archiving A Snap Solution Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/iphones-ultimate-strategy-for-seamless-podcast-downloading-for-2024/"><u>IPhone's Ultimate Strategy for Seamless Podcast Downloading for 2024</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/is-it-secure-to-use-free-file-conversion-tools-online-insights-from-malwarefox/"><u>Is It Secure To Use Free File Conversion Tools Online? Insights From MalwareFox</u></a></li>
+<li><a href="https://win-answers.techidaily.com/minecraft-display-woes-clear-the-darkness-with-our-latest-fixes/"><u>Minecraft Display Woes? Clear the Darkness with Our Latest Fixes !</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/step-by-step-guide-upgrading-your-phone-from-galaxy-s4-to-galaxy-s5/"><u>Step-by-Step Guide: Upgrading Your Phone From Galaxy S4 to Galaxy S5</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/ultimate-top-5-apps-to-manage-sd-cards-on-android-phones-and-tablets/"><u>Ultimate Top 5 Apps to Manage SD Cards on Android Phones & Tablets</u></a></li>
 </ul></div>
 

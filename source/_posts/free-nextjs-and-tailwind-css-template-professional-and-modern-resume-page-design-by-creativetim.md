@@ -1,7 +1,7 @@
 ---
 title: "Free NextJS & Tailwind CSS Template: Professional and Modern Resume Page Design by CreativeTim"
-date: 2024-09-25T13:14:30.966Z
-updated: 2024-09-29T17:31:17.558Z
+date: 2024-09-29T18:37:14.513Z
+updated: 2024-10-05T16:50:43.691Z
 tags:
   - product
 categories:
@@ -20,31 +20,31 @@ thumbnail: https://thmb.techidaily.com/84a4620f422e4279d6cc9c20449448701c42416df
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<span id="1516072">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -66,20 +66,21 @@ thumbnail: https://thmb.techidaily.com/84a4620f422e4279d6cc9c20449448701c42416df
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-quickly-create-a-youtube-animation-for-your-subscribe-button-with-filmora/"><u>[New] In 2024, Quickly Create a YouTube Animation for Your Subscribe Button with Filmora</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/1-mastering-image-rotation-on-mac-the-ultimate-guide-with-flipimage-flipbuildecom/"><u>1. Mastering Image Rotation on Mac: The Ultimate Guide with FlipImage (flipbuilde.com)</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/1-mastering-perfect-dimensions-a-guide-to-balancing-width-and-height-in-flipbook-pages/"><u>1. Mastering Perfect Dimensions: A Guide to Balancing Width & Height in FlipBook Pages</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/1-master-the-art-of-converting-multiple-images-into-interactive-ebooks-a-step-by-step-guide-using-flipbuilder/"><u>1) Master the Art of Converting Multiple Images Into Interactive eBooks: A Step-by-Step Guide Using FlipBuilder</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-elevate-your-visual-narratives-with-mastered-stories-bokeh/"><u>2024 Approved Elevate Your Visual Narratives with Mastered Stories Bokeh</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/ais-wit-workshop-do-computers-learn-to-chuckle/"><u>AI's Wit Workshop: Do Computers Learn to Chuckle?</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/become-an-author-using-flipabook-creator-diy-ebooks-with-engaging-flip-pages-flipabooktoolscom/"><u>Become an Author Using flipaBook Creator: DIY Ebooks with Engaging Flip Pages [flipaBookTools.com]</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/complete-guide-to-using-flippdfs-knowledge-repository-on-flipbuildercom/"><u>Complete Guide to Using FlipPDF's Knowledge Repository on FlipBuilder.com</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/controlling-content-with-buttons-effortless-management-of-flipbooks-via-button-inputs-learn-how-on-flipbuildercom/"><u>Controlling Content with Buttons: Effortless Management of FlipBooks via Button Inputs - Learn How on FlipBuilder.com</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/exploring-cutting-edge-hardware-with-toms-innovative-guides/"><u>Exploring Cutting-Edge Hardware with Tom's Innovative Guides</u></a></li>
-<li><a href="https://games-able.techidaily.com/fixing-joy-con-connection-issues-on-nintendo-switch/"><u>Fixing Joy-Con Connection Issues on Nintendo Switch</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/hd-recovery-toolkit-mending-flawed-videos/"><u>HD Recovery Toolkit: Mending Flawed Videos</u></a></li>
-<li><a href="https://games-able.techidaily.com/raging-firepower-raider-ge78s-2500-battle-royale/"><u>Raging Firepower: Raider GE78's $2500 Battle Royale</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-honor-play-7t-by-fonelab-android-recover-data/"><u>Recover lost data from Honor Play 7T</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/unraveling-the-mechanics-behind-t-mobiles-wireless-regional-roaming-policy/"><u>Unraveling the Mechanics Behind T-Mobile's Wireless Regional Roaming Policy</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-pinnacle-bots-of-online-communities-for-2024/"><u>[New] Pinnacle Bots of Online Communities for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-leveraging-android-for-immersive-virtual-and-360-videos/"><u>[Updated] Leveraging Android for Immersive Virtual and 360 Videos</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/2024-approved-capturing-moons-a-guide-to-proper-night-photography-techniques/"><u>2024 Approved Capturing Moons A Guide to Proper Night Photography Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1725285798361-windows-11/"><u>解決方法：Windows 11無法安裝時的簡易指南</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/best-screen-recording-software-for-mac-top-picks-besides-screenflow/"><u>Best Screen Recording Software for Mac: Top Picks Besides ScreenFlow</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/creating-compelling-videos-masterclass-on-building-professional-slideshows-and-presentations/"><u>Creating Compelling Videos: Masterclass on Building Professional Slideshows and Presentations</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/creating-your-perfect-profile-photo-a-guide-for-ios-and-android-users/"><u>Creating Your Perfect Profile Photo: A Guide for iOS and Android Users</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-the-world-of-gadgets-with-toms-equipment-analysis-and-reviews/"><u>Exploring the World of Gadgets with Tom's Equipment Analysis & Reviews</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-recording-to-reality-a-detailed-look-at-the-sj-cam-s6-for-2024/"><u>From Recording to Reality A Detailed Look at the SJ-CAM S6 for 2024</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/how-to-successfully-remove-redundant-android-applications-from-your-pc-a-comprehensive-guide/"><u>How to Successfully Remove Redundant Android Applications From Your PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-zte-nubia-flip-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your ZTE Nubia Flip 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/introducing-apowersofts-new-mac-video-download-tool-version-10-release/"><u>Introducing Apowersoft's New Mac Video Download Tool, Version 1.0 Release</u></a></li>
+<li><a href="https://app-tips.techidaily.com/is-microsofts-new-release-bound-to-irk-users-or-surprise-them-positively-insights-from-zdnet/"><u>Is Microsoft's New Release Bound to Irk Users, or Surprise Them Positively? Insights From ZDNet</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/the-ultimate-top-7-mobile-apps-for-creating-digital-scrapbooks-on-iphones-and-android-phones/"><u>The Ultimate Top 7 Mobile Apps for Creating Digital Scrapbooks on iPhones and Android Phones</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/top-ranked-apps-and-software-for-editing-photo-bg-colors/"><u>Top-Ranked Apps & Software for Editing Photo Bg Colors</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/zoom-in-to-speed-boosting-video-playback-mobileonline/"><u>Zoom in to Speed Boosting Video Playback (Mobile/Online)</u></a></li>
 </ul></div>
 

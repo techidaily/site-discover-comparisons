@@ -1,7 +1,7 @@
 ---
 title: "Explore the Power of Vue + Laravel for Robust UI Dashboards: Professional PRO Tutorial Using JSON API | Inspired by Creative Tim"
-date: 2024-09-25T01:12:40.798Z
-updated: 2024-09-29T19:12:13.706Z
+date: 2024-10-01T17:54:18.150Z
+updated: 2024-10-05T20:05:08.012Z
 tags:
   - product
 categories:
@@ -20,25 +20,19 @@ thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391d
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938750/19272" target="_top" id="1938750">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938750/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -60,16 +54,16 @@ thumbnail: https://thmb.techidaily.com/d1af8070250ed0fc44c0eb3bb732f040d9be0391d
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-benq-sw320-monitor-review-a-leap-into-4k-territory/"><u>[New] BenQ SW320 Monitor Review A Leap Into 4K Territory</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-from-novice-to-pro-mastering-the-craft-of-yt-shorts/"><u>2024 Approved From Novice to Pro Mastering the Craft of YT Shorts</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/explore-more-than-94-customizable-ui-frameworks-from-creative-tims-libraries/"><u>Explore More than 94 Customizable UI Frameworks From Creative Tim's Libraries</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-remove-your-apple-id-permanently-from-iphone-6s-plus-by-drfone-ios/"><u>In 2024, How To Delete iCloud Account Remove Your Apple ID Permanently From iPhone 6s Plus</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-the-latest-apple-books-app-experience/"><u>In-Depth Analysis: The Latest Apple Books App Experience</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/premium-django-admin-suite-with-bootstrap-ebastion-blackdashboard-pro-by-creative-tim/"><u>Premium Django Admin Suite with Bootstrap Ebastion | Blackdashboard PRO by Creative Tim</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/professional-enterprise-level-tailwind-plus-nextjs-dashboard-template-exclusive-creativesim/"><u>Professional Enterprise-Level Tailwind + Next.js Dashboard Template - Exclusive Creativesim</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/professional-vuejs-and-bootstrap-4-admin-panel-advanced-dashboard-design-by-creative-tim/"><u>Professional Vue.js & Bootstrap 4 Admin Panel - Advanced Dashboard Design by Creative Tim</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/savor-the-magic-of-svelte-get-free-starter-kits-from-creative-tim/"><u>Savor the Magic of Svelte – Get Free Starter Kits From Creative Tim!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-honor-100-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Honor 100 IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/watching-music-unfold-spotifys-latest-addition-of-official-song-videos/"><u>Watching Music Unfold: Spotify's Latest Addition of Official Song Videos</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-unlimited-screen-snapshots-free-macos/"><u>[New] 2024 Approved Unlimited Screen Snapshots, Free MacOS</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-from-camera-to-feed-ig-photo-tutorial/"><u>2024 Approved From Camera to Feed IG Photo Tutorial</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-quickly-stream-spotify-audio-with-integrity/"><u>2024 Approved How to Quickly Stream Spotify Audio with Integrity</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-m34-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-samsung-galaxy-s24-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Samsung Galaxy S24</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/recovering-lost-photographs-from-your-iphone-easily-a-comprehensive-tutorial-for-iphone-7-users/"><u>Recovering Lost Photographs From Your iPhone Easily - A Comprehensive Tutorial for iPhone 7 Users</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/resolving-issues-when-apowermanager-fails-to-retrieve-contact-info-and-texts-from-iphone-or-ipad/"><u>Resolving Issues When ApowerManager Fails to Retrieve Contact Info & Texts From iPhone or iPad</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/step-by-step-guide-uploading-images-from-your-oneplus-6-smartphone-onto-a-personal-computer/"><u>Step-by-Step Guide: Uploading Images From Your OnePlus 6 Smartphone Onto a Personal Computer</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Google Pixel 8 | Dr.fone</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/top-3-lg-smart-tv-alternatives-with-cutting-edge-features/"><u>Top 3 LG Smart TV Alternatives with Cutting-Edge Features</u></a></li>
+<li><a href="https://extra-information.techidaily.com/top-action-cam-battle-max-360-vs-hero-11-review/"><u>Top Action Cam Battle Max 360 vs Hero 11 Review</u></a></li>
 </ul></div>
 
