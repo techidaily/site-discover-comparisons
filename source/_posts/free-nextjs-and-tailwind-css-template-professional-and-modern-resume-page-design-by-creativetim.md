@@ -1,7 +1,7 @@
 ---
 title: "Free NextJS & Tailwind CSS Template: Professional and Modern Resume Page Design by CreativeTim"
-date: 2024-09-29T18:37:14.513Z
-updated: 2024-10-05T16:50:43.691Z
+date: 2024-10-07T07:54:43.251Z
+updated: 2024-10-10T17:48:31.138Z
 tags:
   - product
 categories:
@@ -20,31 +20,19 @@ thumbnail: https://thmb.techidaily.com/84a4620f422e4279d6cc9c20449448701c42416df
 [Custom Development](https://tools.techidaily.com/creative-tim/products/) [Discord Server](https://discord.com/invite/FhCJCaHdQa) 
 
 <!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Loading...
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Sharing is caring!
@@ -66,21 +54,18 @@ thumbnail: https://thmb.techidaily.com/84a4620f422e4279d6cc9c20449448701c42416df
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-pinnacle-bots-of-online-communities-for-2024/"><u>[New] Pinnacle Bots of Online Communities for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-leveraging-android-for-immersive-virtual-and-360-videos/"><u>[Updated] Leveraging Android for Immersive Virtual and 360 Videos</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/2024-approved-capturing-moons-a-guide-to-proper-night-photography-techniques/"><u>2024 Approved Capturing Moons A Guide to Proper Night Photography Techniques</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/1725285798361-windows-11/"><u>解決方法：Windows 11無法安裝時的簡易指南</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/best-screen-recording-software-for-mac-top-picks-besides-screenflow/"><u>Best Screen Recording Software for Mac: Top Picks Besides ScreenFlow</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/creating-compelling-videos-masterclass-on-building-professional-slideshows-and-presentations/"><u>Creating Compelling Videos: Masterclass on Building Professional Slideshows and Presentations</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/creating-your-perfect-profile-photo-a-guide-for-ios-and-android-users/"><u>Creating Your Perfect Profile Photo: A Guide for iOS and Android Users</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/exploring-the-world-of-gadgets-with-toms-equipment-analysis-and-reviews/"><u>Exploring the World of Gadgets with Tom's Equipment Analysis & Reviews</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/from-recording-to-reality-a-detailed-look-at-the-sj-cam-s6-for-2024/"><u>From Recording to Reality A Detailed Look at the SJ-CAM S6 for 2024</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/how-to-successfully-remove-redundant-android-applications-from-your-pc-a-comprehensive-guide/"><u>How to Successfully Remove Redundant Android Applications From Your PC: A Comprehensive Guide</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-zte-nubia-flip-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>In 2024, Change Location on Yik Yak For your ZTE Nubia Flip 5G to Enjoy More Fun | Dr.fone</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/introducing-apowersofts-new-mac-video-download-tool-version-10-release/"><u>Introducing Apowersoft's New Mac Video Download Tool, Version 1.0 Release</u></a></li>
-<li><a href="https://app-tips.techidaily.com/is-microsofts-new-release-bound-to-irk-users-or-surprise-them-positively-insights-from-zdnet/"><u>Is Microsoft's New Release Bound to Irk Users, or Surprise Them Positively? Insights From ZDNet</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/the-ultimate-top-7-mobile-apps-for-creating-digital-scrapbooks-on-iphones-and-android-phones/"><u>The Ultimate Top 7 Mobile Apps for Creating Digital Scrapbooks on iPhones and Android Phones</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/top-ranked-apps-and-software-for-editing-photo-bg-colors/"><u>Top-Ranked Apps & Software for Editing Photo Bg Colors</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/zoom-in-to-speed-boosting-video-playback-mobileonline/"><u>Zoom in to Speed Boosting Video Playback (Mobile/Online)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-the-ultimate-tutorial-for-creating-delayed-videos-on-snapchat/"><u>[New] 2024 Approved The Ultimate Tutorial for Creating Delayed Videos on Snapchat</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/could-advanced-ai-technologies-be-transforming-into-disinformation-tools/"><u>Could Advanced AI Technologies Be Transforming Into Disinformation Tools?</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/explore-unlimited-high-quality-bootstrap-themes-and-template-library-up-to-85plus-selections-by-creative-tim/"><u>Explore Unlimited High-Quality Bootstrap Themes & Template Library – Up to 85+ Selections by Creative Tim!</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/flask-dashboard-mastery-with-material-design-and-bootstrap-n4-by-creative-tim-ultimate-admin-interface-tutorial/"><u>Flask Dashboard Mastery with Material Design & Bootstrap N4 by Creative Tim – Ultimate Admin Interface Tutorial</u></a></li>
+<li><a href="https://fox-that.techidaily.com/getting-your-iphone-mic-back-to-working-order-a-comprehensive-fix/"><u>Getting Your iPhone Mic Back to Working Order - A Comprehensive Fix</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-samsung-galaxy-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-honor-magic-vs-2-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Honor Magic Vs 2 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-unlocking-emotional-depth-in-self-narrated-videos-yt/"><u>In 2024, Unlocking Emotional Depth in Self-Narrated Videos YT</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/intro-to-photo-editing-mastering-lunapic-basics-for-2024/"><u>Intro to Photo Editing Mastering LunaPic Basics for 2024</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/laravel-powered-vuesoft-ui-advanced-dashboard-solutions-by-creative-tim-and-updivision/"><u>Laravel-Powered VueSoft UI: Advanced Dashboard Solutions by Creative Tim and Updivision</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/premium-django-admin-suite-with-bootstrap-ebastion-blackdashboard-pro-by-creative-tim/"><u>Premium Django Admin Suite with Bootstrap Ebastion | Blackdashboard PRO by Creative Tim</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/professional-enterprise-level-tailwind-plus-nextjs-dashboard-template-exclusive-creativesim/"><u>Professional Enterprise-Level Tailwind + Next.js Dashboard Template - Exclusive Creativesim</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/professional-vuejs-and-bootstrap-4-admin-panel-advanced-dashboard-design-by-creative-tim/"><u>Professional Vue.js & Bootstrap 4 Admin Panel - Advanced Dashboard Design by Creative Tim</u></a></li>
 </ul></div>
 
