@@ -1,7 +1,7 @@
 ---
 title: Data Restoration Tactics for Accidentally Formatted Drives – Even Without Previous Backups!
-date: 2024-10-09T07:47:46.673Z
-updated: 2024-10-10T17:59:47.117Z
+date: 2024-10-16T08:03:20.107Z
+updated: 2024-10-17T07:18:52.816Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/4b5562ff0db20c13529d0f69be32d5c21c69778a6a352420334c0743deb0bfe7.png
@@ -43,18 +43,18 @@ Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/u
 6. [Consigli per un'Operazione Fluida di Windows 10](https://tools.techidaily.com/ubackup/products/)
 7. [Conclusione](https://tools.techidaily.com/ubackup/products/)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Introduzione
 
 Incontrare il problema di non poter digitare nella barra di ricerca di Windows 10 può essere frustrante, interrompendo il flusso di lavoro e ostacolando la navigazione efficiente. In questa guida completa, esamineremo i dettagli di questo problema, esploreremo le possibili cause e forniremo una varietà di soluzioni per garantire che tu possa digitare senza problemi nella barra di ricerca di Windows 10.
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
-  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
@@ -76,13 +76,6 @@ Alcune applicazioni di terze parti o conflitti software potrebbero interferire c
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528693/16446" target="_top" id="1528693">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528693" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528693/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
 
 Passo 1\. Apri il Task Manager:
@@ -100,6 +93,13 @@ Fai clic con il tasto destro su entrambi Cortana ed Esplora file di Windows e sc
 Passo 4\. Prova a Digitare nella Barra di Ricerca:
 
 Prova a digitare nella barra di ricerca dopo aver riavviato i servizi.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Soluzione 2: Esegui il Risolutore dei Problemi di Ricerca e Indicizzazione
 
@@ -120,10 +120,10 @@ Passo 4\. Segui le Istruzioni Visualizzate:
 Segui le istruzioni visualizzate per completare il processo di risoluzione dei problemi e verifica se il problema di non poter digitare nella barra di ricerca di Windows è risolto.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Soluzione 3: Ricostruisci le Opzioni di Indicizzazione
@@ -159,16 +159,10 @@ Passo 3\. Installa gli Aggiornamenti:
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
 
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Soluzione 5: Crea un Nuovo Account Utente
@@ -217,6 +211,13 @@ Passo 4\. Avvia il Backup:
 
 Clicca su "Avvia Backup" per creare un backup completo del tuo sistema Windows 10.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Domande Frequenti su Impossibilità di Digitare nella Barra di Ricerca su Windows 10
 
 #1: Perché la mia barra di ricerca di Windows 10 non risponde alla digitazione?
@@ -230,13 +231,6 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 #3: AOMEI Backupper può ripristinare il mio sistema se necessario?
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Consigli per un'Operazione Fluida di Windows 10
 
@@ -258,6 +252,13 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Aira](https://tools.techidaily.com/ubackup/products/) · Editore
 
 Aira è l'editore tecnico di AOMEI, principalmente responsabile di AOMEI Backupper. Le piace aiutare gli utenti con domande su backup e ripristino del computer, clonazione del disco, sincronizzazione e altro ancora. Ha scritto molti articoli su AOMEI Backupper. Nel tempo libero ama fare sport e guardare film. Come un redattore professionale di AOMEI. Aira sarà felice di aiutarti.
@@ -278,19 +279,6 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
-<!-- affiliate ads begin -->
-<span id="1977023">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
@@ -306,24 +294,24 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-rendering-reawakening-amds-radeon-for-2024/"><u>[New] Rendering Reawakening AMD's Radeon for 2024</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-peeksnapper-a-critical-examination-of-micro-recording-tools/"><u>[Updated] 2024 Approved PeekSnapper A Critical Examination of Micro-Recording Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-cutting-edge-techniques-for-private-yt-content-dissemination-in-gmail-for-2024/"><u>[Updated] Cutting-Edge Techniques for Private YT Content Dissemination in Gmail for 2024</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-elevate-your-youtube-shorts-top-10-strategies-for-uniqueness-for-2024/"><u>[Updated] Elevate Your YouTube Shorts Top 10 Strategies for Uniqueness for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-essential-list-high-quality-cost-free-meeting-platforms-for-2024/"><u>[Updated] Essential List High-Quality, Cost-Free Meeting Platforms for 2024</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-eyevision-recorder-ultimate-for-2024/"><u>[Updated] EyeVision Recorder Ultimate for 2024</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-the-finest-html5-video-tools-for-content-creators/"><u>[Updated] The Finest HTML5 Video Tools for Content Creators</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-2023s-leading-skype-capture-tools-the-ultimate-ranking/"><u>2024 Approved 2023'S Leading Skype Capture Tools The Ultimate Ranking</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/effortless-ways-to-transform-tudou-audio-into-mp3-format/"><u>Effortless Ways to Transform Tudou Audio Into MP3 Format</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/evolutionary-tools-redefining-the-art-of-game-capture-beyond-fbx/"><u>Evolutionary Tools Redefining the Art of Game Capture Beyond FBX</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/maximize-online-privacy-and-save-exclusive-guide-to-scoring-49-off-expressvpn-deals/"><u>Maximize Online Privacy & Save: Exclusive Guide to Scoring 49% Off ExpressVPN Deals</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/quick-and-easy-guide-how-to-erase-pictures-on-an-ipad/"><u>Quick & Easy Guide: How to Erase Pictures on an iPad</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/recovering-lost-photographs-from-your-iphone-easily-a-comprehensive-tutorial-for-iphone-7-users/"><u>Recovering Lost Photographs From Your iPhone Easily - A Comprehensive Tutorial for iPhone 7 Users</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/resolving-issues-when-apowermanager-fails-to-retrieve-contact-info-and-texts-from-iphone-or-ipad/"><u>Resolving Issues When ApowerManager Fails to Retrieve Contact Info & Texts From iPhone or iPad</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/step-by-step-guide-uploading-images-from-your-oneplus-6-smartphone-onto-a-personal-computer/"><u>Step-by-Step Guide: Uploading Images From Your OnePlus 6 Smartphone Onto a Personal Computer</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/the-ultimate-guide-to-broadcasting-mobile-gameplay-on-youtube-top-tactics/"><u>The Ultimate Guide to Broadcasting Mobile Gameplay on YouTube - Top Tactics!</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/top-3-lg-smart-tv-alternatives-with-cutting-edge-features/"><u>Top 3 LG Smart TV Alternatives with Cutting-Edge Features</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/top-mobile-surveillance-applications-how-to-identify-and-remove-privacy-invading-android-programs/"><u>Top Mobile Surveillance Applications: How to Identify and Remove Privacy-Invading Android Programs</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/top-rated-mac-os-x-sierra-screenshot-utilities-a-comprehensive-guide/"><u>Top-Rated Mac OS X Sierra Screenshot Utilities: A Comprehensive Guide</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/1-free-easy-steps-to-restore-deleted-data-from-your-hard-drive/"><u>1. [FREE] Easy Steps to Restore Deleted Data From Your Hard Drive</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-becoming-a-director-top-film-tips-and-tricks-on-youtube/"><u>2024 Approved Becoming a Director Top Film Tips & Tricks on YouTube</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-expert-advice-on-optimal-live-cricket-broadcast-watching/"><u>2024 Approved Expert Advice on Optimal Live Cricket Broadcast Watching</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-from-muddled-to-clear-mastering-photo-bg-removal/"><u>2024 Approved From Muddled to Clear Mastering Photo Bg Removal</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/5-ways-to-track-oneplus-nord-ce-3-5g-without-app-drfone-by-drfone-virtual-android/"><u>5 Ways to Track OnePlus Nord CE 3 5G without App | Dr.fone</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/1728475801528-onedrive/"><u>解決方法：如何阻止 OneDrive 自動刪除檔案</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/complete-guide-to-restore-accidentally-deleted-images-from-your-iphone-111314/"><u>Complete Guide to Restore Accidentally Deleted Images From Your iPhone 11/13/14</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/comprendre-les-avantages-de-la-pre-installation-daomei-onekey-recuperation-pour-votre-entreprise/"><u>Comprendre Les Avantages De La Pré-Installation D'AOMEI OneKey Récupération Pour Votre Entreprise</u></a></li>
+<li><a href="https://win-blog.techidaily.com/epic-showdown-ended-prematurely-by-pc-glitches-heres-how-to-make-it-stick-the-landing/"><u>Epic Showdown Ended Prematurely by PC Glitches? Here's How to Make It Stick the Landing!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-facebook-dating-for-your-realme-11-pro-drfone-by-drfone-virtual-android/"><u>How to Change Location On Facebook Dating for your Realme 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-zte-nubia-flip-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On ZTE Nubia Flip 5G? | Dr.fone</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-unlock-the-potential-tutorial-on-enabling-speech-transcription-in-powerpoint/"><u>In 2024, Unlock the Potential Tutorial on Enabling Speech Transcription in PowerPoint</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/next-morning-analysis-fresh-insights/"><u>Next Morning Analysis Fresh Insights</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/sichern-sie-ihre-daten-effizient-auf-dem-neuen-ipad-mithilfe-von-fonetool-im-icloud-backup-system/"><u>Sichern Sie Ihre Daten Effizient Auf Dem Neuen iPad Mithilfe Von FoneTool Im iCloud Backup System</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/tecnicas-eficientes-de-deploying-operating-system-images-across-networked-computers/"><u>Técnicas Eficientes De Deploying Operating System Images Across Networked Computers</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/top-6-easy-methods-to-update-your-iphones-ringtones-at-no-cost/"><u>Top 6 Easy Methods to Update Your iPhone's Ringtones at No Cost</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-windows-11-update-failure-with-error-0x800705b4-proven-methods-explored/"><u>Troubleshooting Windows 11 Update Failure with Error 0X800705B4 - Proven Methods Explored</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/1728482262949-windows-113/"><u>Windows 11で管理者ツールパネルが表示されない場合の優先的な解決策3つ</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/1728484203962-windows-10-11usb/"><u>パーティションのない状態にする: Windows 10, 11向けUSBメモリの分割解消方法</u></a></li>
 </ul></div>
 
