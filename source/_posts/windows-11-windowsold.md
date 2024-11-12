@@ -1,7 +1,7 @@
 ---
 title: 如何安全清理Windows 11 'Windows.old'目录：有效策略解析
-date: 2024-11-02T21:15:19.871Z
-updated: 2024-11-03T19:37:21.105Z
+date: 2024-11-08T19:09:37.558Z
+updated: 2024-11-12T19:40:16.003Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485eda34d7682bda60157d137f8e.png
@@ -49,19 +49,25 @@ My HP is not starting up. I’ve received the ‘winload efi is missing or corru
 [![Winload.efi Error 0xc0000225](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/winload-efi-after-clone/winload-efi-error-0xc0000225.png "Winload.efi Error 0xc0000225")
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If you meet similar problems that you can’t find winload.efi, you have been in the right place. Here is a collection of methods to solve ‘winload.efi missing Windows 11 issue. Let’s start to go!
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049382/7443" target="_top" id="2049382">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049382" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049382/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## About winload.efi file
@@ -71,16 +77,10 @@ If you meet similar problems that you can’t find winload.efi, you have been in
 Before we fix the file winload.efi missing error, let’s explore the causes that may lie with it:
 
 <!-- affiliate ads begin -->
-<span id="1770544">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770544.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770544">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770544.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770544%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770544/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### What caused winload.efi missing error?
@@ -93,9 +93,29 @@ Causes of "winload.efi missing or contains error after clone" issues:
 **4\. Cloning Without Modifications**: Cloning a Windows installation without making necessary modifications can lead to boot problems, such as the winload.efi missing or containing error after clone.  
 **5\. Motherboard Replacement**: Replacing or modifying a computer's motherboard may cause problems with devices and drivers, potentially triggering the "winload.efi" problem if not addressed.
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to Fix winload.efi missing
 
 The "winload.efi missing" error happens when the OS can't find or access the winload.efi file. To fix this issue, 5 solutions are provided. You can directly navigate to the specific method you need or go through each solution sequentially.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ###  Option 1\. Use the Boot Repair Tool
 
@@ -125,19 +145,6 @@ After creating bootable media (just a few minutes), boot your computer from this
 
 [![Windows Shell Command](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/adv/tools/windows-shell-command.png)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 2\. Disable Secure Boot
 
 To address the winload.efi error linked to Safe/Secure Boot, follow these steps to disable Secure Boot in the UEFI configuration:
@@ -151,13 +158,6 @@ Step 2\. Navigate to the Secure Boot option in BIOS, located under tabs like **B
 Step 3\. In the **Secure Boot** interface, change it from **Enabled** to **Disable**.
 
 [![Disable Secure Boot](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/articles/images/winload-efi-missing-after-clone-5740/secure-boot.jpg "Disable Secure Boot")
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4\. Save the changes and exit the UEFI settings.
 
@@ -174,13 +174,6 @@ Step 2\. Boot the system from the USB and choose **Repair your Computer**.
 Step 3\. Select **Troubleshoot** and then **Command Prompt**.
 
 [![Command Prompt](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/others/windows-10-startup-repair/advanced-options.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2094482/7443" target="_top" id="2094482">
-  <img src="//a.impactradius-go.com/display-ad/7443-2094482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Step 4\. Type or paste the following command and press **Enter**:
 
@@ -264,20 +257,20 @@ You just need to download this software and install it. Open it and navigate to 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-20.svg) 100% Secure
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 [![System Backup](https://www.ubackup.com/windows-11/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/en/std/backup/system-backup/system-backup.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -324,6 +317,13 @@ Safeguard any data of your computer with backup, sync and clone.
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Clean & Secure
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
 <ins class="adsbygoogle"
@@ -341,21 +341,15 @@ Safeguard any data of your computer with backup, sync and clone.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-discovering-the-power-of-fraps-in-video-capture/"><u>[New] 2024 Approved Discovering the Power of Fraps in Video Capture</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-master-the-art-of-clean-up-a-guide-to-bg-elimination/"><u>[Updated] Master the Art of Clean-Up A Guide to BG Elimination</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-the-performers-playbook-avoiding-common-mistakes-in-ppt-voiceovers/"><u>2024 Approved The Performer's Playbook Avoiding Common Mistakes in PPT Voiceovers</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/1728505875629-windows-11/"><u>最新のWindows 11でシステムイメージを作成するための簡単レシピ: 第二ボタンを押せば</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/capture-perfection-freemacrecorder-for-2024/"><u>Capture Perfection FreeMacRecorder for 2024</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/effortless-steps-seamlessly-connect-your-files-to-a-shared-network-drive/"><u>Effortless Steps: Seamlessly Connect Your Files to a Shared Network Drive</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/guardians-of-tomorrow-mastering-chatgpt-and-generative-artificam-to-guide-your-children/"><u>Guardians of Tomorrow: Mastering ChatGPT and Generative Artificam to Guide Your Children</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/how-to-generate-a-bootable-usb-image-on-windows-11-using-an-easy-download-tool/"><u>How to Generate a Bootable USB Image on Windows 11 Using an Easy Download Tool</u></a></li>
-<li><a href="https://video-ai-editor.techidaily.com/immerse-yourself-in-cinematic-excellence-the-superior-visuals-of-8k-film-viewing-on-modern-computers/"><u>Immerse Yourself in Cinematic Excellence: The Superior Visuals of 8K Film Viewing on Modern Computers</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-easy-steam-recordings-with-team-fortress-2s-latest-update/"><u>In 2024, Easy Steam Recordings with Team Fortress 2'S Latest Update</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-easily-unlock-vivo-screen-by-drfone-android/"><u>In 2024, How To Easily Unlock Vivo Screen?</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-unlock-apple-id-without-phone-number-on-iphone-8-by-drfone-ios/"><u>In 2024, Unlock Apple ID without Phone Number On iPhone 8</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/problembehandlung-kontakte-wurden-nicht-auf-neuen-iphone-ubertragen-schritte-zur-losung/"><u>Problembehandlung: Kontakte Wurden Nicht Auf Neuen iPhone Übertragen - Schritte Zur Lösung</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/simple-dependable-server-data-protection-made-simple-for-small-enterprnises/"><u>Simple, Dependable Server Data Protection Made Simple for Small Enterprnises</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/starting-from-the-units-place-add-corresponding-digits-together-along-with-any-carry-from-the-previous-digit/"><u>Starting From the Units Place, Add Corresponding Digits Together Along with Any Carry From the Previous Digit.</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/ultimate-guide-solving-the-puzzle-of-a-stagnant-icloud-music-library-update/"><u>Ultimate Guide: Solving the Puzzle of a Stagnant iCloud Music Library Update</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-audio-file-fusion-seamless-conversion-from-srt-to-other-formats/"><u>[Updated] Audio File Fusion Seamless Conversion From SRT to Other Formats</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/1728480755740-windows-11/"><u>工場出荷設定へのWindows 11回復方法を簡単に学ぶ</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/amazon-vs-apple-in-depth-comparison-of-the-echo-dot-and-homepod-mini-speakers/"><u>Amazon Vs. Apple: In-Depth Comparison of the Echo Dot and HomePod Mini Speakers</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/herstellen-van-een-permanente-verwijderde-kaart-in-windows-11/"><u>Herstellen Van Een Permanente Verwijderde Kaart in Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-honor-x50i-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Honor X50i If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-tecno-spark-20-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Tecno Spark 20 Devices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/is-it-possible-to-stream-netflix-on-your-nintendo-switch-console/"><u>Is It Possible To Stream Netflix On Your Nintendo Switch Console?</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/navigating-website-blunders-unraveling-404-issues-and-remedies/"><u>Navigating Website Blunders: Unraveling 404 Issues and Remedies</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/quick-tips-for-configuring-bi-directional-synchronization-with-synology-drives-on-windows-systems/"><u>Quick Tips for Configuring Bi-Directional Synchronization with Synology Drives on Windows Systems</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/solving-issues-with-the-lenovo-one-key-recovery-when-your-partition-is-damaged/"><u>Solving Issues with the Lenovo One Key Recovery: When Your Partition Is Damaged</u></a></li>
 </ul></div>
 
