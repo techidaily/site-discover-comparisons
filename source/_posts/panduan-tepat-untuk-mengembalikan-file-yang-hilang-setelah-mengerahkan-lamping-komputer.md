@@ -1,7 +1,7 @@
 ---
 title: Panduan Tepat Untuk Mengembalikan File Yang Hilang Setelah Mengerahkan Lamping Komputer
-date: 2024-11-25T22:44:05.710Z
-updated: 2024-11-30T19:09:55.595Z
+date: 2024-12-06T23:55:30.009Z
+updated: 2024-12-08T16:02:04.269Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b83c993e13cda25988d89dcf.png
@@ -18,10 +18,6 @@ thumbnail: https://thmb.techidaily.com/c2e520b7fa2ea279c78f437762c6d9b1bb9afdd3b
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Logiciel de sauvegarde NAS Buffalo le plus efficace ! \[Guide inclus\]
 
 Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Windows 11/10/8/7/XP/Vista. Apprenez à l'utiliser pour sauvegarder automatiquement des fichiers en quelques étapes simples.
@@ -29,7 +25,7 @@ Vous obtiendrez le logiciel de sauvegarde NAS Buffalo le plus simple pour Window
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Par[Aurore](https://tools.techidaily.com/ubackup/products/)Publié le 26/06/2024
@@ -42,6 +38,10 @@ Partager sur : ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-a
 2. [Avantages du logiciel de sauvegarde NAS Buffalo - AOMEI Backupper Standard](https://tools.techidaily.com/ubackup/products/)
 3. [Comment utiliser le logiciel de sauvegarde NAS Buffalo pour Windows pour sauvegarder des fichiers](https://tools.techidaily.com/ubackup/products/)
 4. [Dernières réflexions sur l'utilitaire de sauvegarde Buffalo](https://tools.techidaily.com/ubackup/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Logiciel de sauvegarde NAS Buffalo pour système Windows
 
@@ -81,6 +81,10 @@ Avant de commencer à sauvegarder des fichiers avec le logiciel de sauvegarde NA
 
 [![sauvegarde de fichiers](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/sauvegarde-de-fichiers.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partition_. Si vous souhaitez sauvegarder le système sur le NAS Buffalo, essayez la fonctionnalité de [Sauvegarde système](https://tools.techidaily.com/ubackup/products/).
 
 **Étape 2.** Sélectionnez les fichiers ou les dossiers sur le lecteur NAS Buffalo.
@@ -88,6 +92,10 @@ Vous pouvez également choisir _Sauvegarde de disque_ et _Sauvegarde de partitio
 Tout d'abord, cliquez sur **Ajouter un dossier** ou **Ajouter un fichier** sur la page principale de sauvegarde de fichiers.
 
 [![ajouter un fichier ou un dossier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/sauvegarde-fichier/ajouter-dossier-fichier.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Cliquez sur **Share/NAS** pour ouvrir la fenêtre suivante.
 
@@ -106,7 +114,7 @@ Ensuite, cliquez sur **Ajouter un périphérique Share ou NAS**, saisissez le no
 [![mode planifier](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/mode-planifier.png)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Par défaut, ce logiciel créera une sauvegarde complète et 6 sauvegardes incrémentielles si vous définissez une tâche de sauvegarde planifiée. Cela peut entraîner un problème d'espace disque plein à long terme, il est donc recommandé d'activer le [Plan de sauvegarde](https://tools.techidaily.com/ubackup/products/) et de supprimer automatiquement les fichiers de sauvegarde. Pour profiter de ces fonctions, passez à l'édition [Professional](https://tools.techidaily.com/ubackup/products/).
@@ -116,14 +124,6 @@ Et la sauvegarde incrémentielle nécessite une récupération plus complexe tan
 De plus, vous pouvez activer la notification par e-mail une fois la tâche terminée. Commenter, fractionner, compresser l'image de sauvegarde ou sélectionner un mode de sauvegarde, etc.
 
 [![options](https://www.ubackup.com/fr/articles/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/fr/std/backup/sauvegarder/options-sauvegarder/sauvegarde-options.png "AOMEI Email SMS Notification Settings")
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Dernières réflexions sur l'utilitaire de sauvegarde Buffalo
 
@@ -140,6 +140,10 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
 ![Aurore](https://www.ubackup.com/assets/images/author/aurore.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 [Aurore](https://tools.techidaily.com/ubackup/products/) · Éditeur
 
@@ -165,10 +169,6 @@ Les informations fournies sont-elles utiles ? Votre vote compte beaucoup pour no
 
 [Oui](https://tools.techidaily.com/ubackup/products/)[Non](https://tools.techidaily.com/ubackup/products/)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Obtenez gratuitement AOMEI Backupper
 
 Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchronisation et le clonage.
@@ -178,7 +178,7 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Propre & Sûr
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
@@ -198,18 +198,24 @@ Protégez toutes les données de votre ordinateur avec la sauvegarde, la synchro
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-best-no-cost-video-conferencing-apps-cross-system-friendly/"><u>[New] In 2024, Best No-Cost Video Conferencing Apps Cross-System Friendly</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-installing-snapchat-a-mac-owners-handbook-for-2024/"><u>[New] Installing Snapchat A Mac Owner's Handbook for 2024</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/einfache-live-synchronisation-von-ordnern-unter-windows-10-schritt-fur-schritt-anleitung/"><u>Einfache Live-Synchronisation Von Ordnern Unter Windows 10 - Schritt-Für-Schritt-Anleitung</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/exploring-freefilesync-and-beyond-your-options-for-seamless-auto-syncing-solutions/"><u>Exploring FreeFileSync & Beyond: Your Options for Seamless Auto-Syncing Solutions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-reno-10-proplus-5g-by-fonelab-android-recover-data/"><u>How to recover lost data from Reno 10 Pro+ 5G?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-lens-leaderships-top-ten-camera-lens-selections-for-photographers/"><u>In 2024, Lens Leaderships Top Ten Camera Lens Selections for Photographers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-music-enhanced-whatsapp-expressions/"><u>In 2024, Music-Enhanced WhatsApp Expressions</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-finest-10-online-spots-to-download-pristine-photos/"><u>In 2024, The Finest 10 Online Spots to Download Pristine Photos</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/panneau-daffichage-gratuit-et-efficace-recuperation-de-fichiers-sur-la-carte-sd-avec-une-application-specialement-concue-pour-les-cameras-panasonic-avccam.m176/"><u>Panneau D'affichage Gratuit Et Efficace : Récupération De Fichiers Sur La Carte SD Avec Une Application Spécialement Conçue Pour Les Caméras Panasonic AVCCAM</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/professionelle-backup-and-drm-strategien-fur-unternehmenskommunikationssysteme-mit-aomei-backupper-technischer-experte/"><u>Professionelle Backup & DRM-Strategien Für Unternehmenskommunikationssysteme Mit AOMEI Backupper - Technischer Experte</u></a></li>
-<li><a href="https://driver-error.techidaily.com/reactivation-of-dormant-bluetooth-on-your-pc/"><u>Reactivation Of: Dormant Bluetooth on Your PC</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/step-by-step-guide-how-to-import-pictures-from-ios-devices-to-dropbox-on-windowsmac/"><u>Step-by-Step Guide: How to Import Pictures From iOS Devices to Dropbox on Windows/Mac</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/strategie-per-il-ripristino-dei-dati-perduti-accidentalmente-da-una-periferica-di-archiviazione-esterna/"><u>Strategie per Il Ripristino Dei Dati Perduti Accidentalmente Da Una Periferica Di Archiviazione Esterna</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/days-gone-an-adventure-of-motorcycles-zombies-and-survival-game-reviewed/"><u>'Days Gone': An Adventure of Motorcycles, Zombies, and Survival – Game Reviewed</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/1-endless-singing-fun-add-32-exciting-tracks-with-part-times-newest-karaoke-subscription-plan/"><u>1. Endless Singing Fun: Add 32 Exciting Tracks with Part-Time's Newest Karaoke Subscription Plan!</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/1-uncover-the-reasons-behind-your-sluggish-pc-expert-insights-from-yl-computing/"><u>1. Uncover the Reasons Behind Your Sluggish PC - Expert Insights From YL Computing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-how-to-find-youtube-partners-and-make-collab-videos/"><u>2024 Approved How to Find YouTube Partners and Make Collab Videos?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-instagram-voice-customization-made-easy/"><u>2024 Approved Instagram Voice Customization Made Easy</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-lava-blaze-curve-5g-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Lava Blaze Curve 5G to iPhone | Dr.fone</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/enhancing-system-efficiency-secure-techniques-for-pc-optimization-tips-from-yl-computing/"><u>Enhancing System Efficiency: Secure Techniques for PC Optimization - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/facing-an-unresponsive-keyboard-and-mouse-try-these-fixes-from-yl-software-experts/"><u>Facing an Unresponsive Keyboard and Mouse? Try These Fixes From YL Software Experts</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-infinix-hot-40-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Infinix Hot 40 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-error-495-while-downloadupdating-android-apps-on-vivo-s17t-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Error 495 While Download/Updating Android Apps On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-honor-90-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Honor 90 | Dr.fone</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/mastering-mouse-preferences-adjust-settings-with-ease-through-the-windows-control-panel-digitalpro-tips/"><u>Mastering Mouse Preferences: Adjust Settings with Ease Through the Windows Control Panel - DigitalPro Tips</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/mastering-windows-registry-tweaks-a-comprehensive-guide-by-yl-software-specialists/"><u>Mastering Windows Registry Tweaks: A Comprehensive Guide by YL Software Specialists</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/photomod-editor-skills-review-for-2024/"><u>PhotoMod Editor Skills Review for 2024</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/troubleshooting-and-solutions-for-blue-screen-errors-due-to-ram-problems-innovative-strategies-by-yl-software-experts/"><u>Troubleshooting and Solutions for Blue Screen Errors Due to RAM Problems - Innovative Strategies by YL Software Experts</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/understanding-chinas-counter-espionage-measures-implications-for-rule-of-law-in-a-legally-structured-nation-analysis-by-yl-software/"><u>Understanding China’s Counter-Espionage Measures: Implications for Rule of Law in a Legally Structured Nation - Analysis by YL Software</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/unlock-the-power-of-djing-save-25-on-all-pcdj-software-july-5th-exclusive-offer/"><u>Unlock the Power of DJing: Save 25% on All PCDJ Software - July 5Th Exclusive Offer!</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-kindly-follow-me-through-the-different-options-that-you-have-on-how-you-can-capture-and-share-your-ps4-screenshots/"><u>Updated In 2024, Kindly Follow Me Through the Different Options that You Have on How You Can Capture and Share Your PS4 Screenshots</u></a></li>
+<li><a href="https://techidaily.com/what-you-need-to-know-to-improve-your-realme-c51-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>What You Need To Know To Improve Your Realme C51 Hard Reset | Dr.fone</u></a></li>
 </ul></div>
 
