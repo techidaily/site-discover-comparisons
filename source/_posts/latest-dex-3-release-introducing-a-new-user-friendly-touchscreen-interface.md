@@ -1,7 +1,7 @@
 ---
 title: "Latest DEX #3 Release: Introducing a New User-Friendly Touchscreen Interface!"
-date: 2024-12-05T02:11:27.938Z
-updated: 2024-12-08T16:20:09.909Z
+date: 2024-12-08T02:18:33.242Z
+updated: 2024-12-14T23:44:06.557Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ This new 16:9 ratio “Touchy” skin is free for all DEX 3 users to download an
 _**Unzip Skin Files (Both Files) To Documents -> PCDJ-DEX3 -> Skins**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,19 +48,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/02/touchscreen-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-enhance-presentations-with-background-music/"><u>[New] 2024 Approved Enhance Presentations with Background Music</u></a></li>
-<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-realme-narzo-60-5g-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Realme Narzo 60 5G? Fix Now | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/advanced-tricks-for-superior-frame-rates-in-tainted-grail-conquest-unleashed/"><u>Advanced Tricks for Superior Frame Rates in Tainted Grail: Conquest Unleashed</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/detecting-a-malfunctioning-hard-disk-expert-advice-by-yl-software/"><u>Detecting a Malfunctioning Hard Disk: Expert Advice by YL Software</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/exploring-the-long-term-effects-of-nanjings-tragedy-on-modern-society-and-politics/"><u>Exploring the Long-Term Effects of Nanjing's Tragedy on Modern Society and Politics</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-erase-an-apple-iphone-se-2022-without-apple-id-password-by-drfone-ios/"><u>How To Erase an Apple iPhone SE (2022) Without Apple ID Password?</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/how-to-maintain-high-speed-functionality-on-your-computer-expert-advice-from-yl-software/"><u>How to Maintain High-Speed Functionality on Your Computer: Expert Advice From YL Software</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/identifying-the-culprits-top-reasons-your-computer-is-lagging-expert-insights-by-yl-computing/"><u>Identifying the Culprits: Top Reasons Your Computer Is Lagging - Expert Insights by YL Computing</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/24-co-production-strategies-for-online-content-proliferation/"><u>In 2024, Co-Production Strategies for Online Content Proliferation</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-oppo-a1-5g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Oppo A1 5G to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/outcomes-and-consequences-unraveling-the-impacts-of-the-chinese-opium-war/"><u>Outcomes and Consequences: Unraveling the Impacts of the Chinese Opium War</u></a></li>
-<li><a href="https://windows11.techidaily.com/priority-accessibility-attach-google-mail-taskbar-ready/"><u>Priority Accessibility: Attach Google Mail Taskbar-Ready</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/protect-your-gpu-effective-strategies-to-avoid-graphics-card-malfunction-by-yl-computing/"><u>Protect Your GPU: Effective Strategies to Avoid Graphics Card Malfunction by YL Computing</u></a></li>
-<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-lava-blaze-2-5g-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Lava Blaze 2 5G</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-notable-sites-elevating-youtube-videography/"><u>2024 Approved Notable Sites Elevating YouTube Videography</u></a></li>
+<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-apple-iphone-7-plus-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From Apple iPhone 7 Plus? Heres the Best Fixes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/free-online-converter-transforming-wmv-files-into-mp4-format-for-both-mac-and-windows-10/"><u>Free Online Converter: Transforming WMV Files Into MP4 Format for Both Mac and Windows 10</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/is-it-possible-to-restore-deleted-files-after-formatting-insights-from-yl-software-specialists/"><u>Is It Possible to Restore Deleted Files After Formatting? Insights From YL Software Specialists</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/maximizing-speed-expert-strategies-for-enhancing-windows-efficiency-yl-software-insights/"><u>Maximizing Speed: Expert Strategies for Enhancing Windows Efficiency - YL Software Insights</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-turn-your-memories-into-a-cinematic-video-experience/"><u>New 2024 Approved Turn Your Memories Into a Cinematic Video Experience</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/optimizing-your-bars-sing-off-showdown-expert-dj-insights-for-unparalleled-karaoke-nights/"><u>Optimizing Your Bar's Sing-Off Showdown: Expert DJ Insights for Unparalleled Karaoke Nights</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/perfecting-live-broadcasts-with-streamlabs-obs-tips-for-2024/"><u>Perfecting Live Broadcasts with Streamlabs OBS Tips for 2024</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/solving-the-mystery-of-the-blue-screen-a-step-by-step-guide-by-yl-computing/"><u>Solving the Mystery of the Blue Screen: A Step-by-Step Guide by YL Computing</u></a></li>
+<li><a href="https://fox-place.techidaily.com/step-by-step-guide-restore-unintentionally-removed-excel-data-without-cost/"><u>Step-by-Step Guide: Restore Unintentionally Removed Excel Data without Cost</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/troubleshooting-your-gpu-expert-tips-to-detect-and-fix-graphics-card-malfunctions-from-yl-tech-support/"><u>Troubleshooting Your GPU: Expert Tips to Detect and Fix Graphics Card Malfunctions From YL Tech Support</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unifying-your-visuals-how-to-color-match-video-clips-in-powerdirector/"><u>Updated In 2024, Unifying Your Visuals How to Color Match Video Clips in PowerDirector</u></a></li>
+<li><a href="https://win-guides.techidaily.com/top-5-professionalnyh-seo-kompanij-v-dzhidde-eksklyuzivnaya-vyborka-iz-saudovskoj-aravii/"><u>Топ-5 Профессиональных SEO-Компаний В Джидде: Эксклюзивная Выборка Из Саудовской Аравии</u></a></li>
 </ul></div>
 
