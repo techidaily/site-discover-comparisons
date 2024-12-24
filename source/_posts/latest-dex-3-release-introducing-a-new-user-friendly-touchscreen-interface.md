@@ -1,7 +1,7 @@
 ---
 title: "Latest DEX #3 Release: Introducing a New User-Friendly Touchscreen Interface!"
-date: 2024-12-08T02:18:33.242Z
-updated: 2024-12-14T23:44:06.557Z
+date: 2024-12-21T05:54:29.647Z
+updated: 2024-12-23T18:14:29.634Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ This new 16:9 ratio “Touchy” skin is free for all DEX 3 users to download an
 _**Unzip Skin Files (Both Files) To Documents -> PCDJ-DEX3 -> Skins**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,18 +48,17 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/02/touchscreen-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-notable-sites-elevating-youtube-videography/"><u>2024 Approved Notable Sites Elevating YouTube Videography</u></a></li>
-<li><a href="https://apple-account.techidaily.com/forgot-your-apple-id-password-and-email-from-apple-iphone-7-plus-heres-the-best-fixes-by-drfone-ios/"><u>Forgot Your Apple ID Password and Email From Apple iPhone 7 Plus? Heres the Best Fixes</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/free-online-converter-transforming-wmv-files-into-mp4-format-for-both-mac-and-windows-10/"><u>Free Online Converter: Transforming WMV Files Into MP4 Format for Both Mac and Windows 10</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/is-it-possible-to-restore-deleted-files-after-formatting-insights-from-yl-software-specialists/"><u>Is It Possible to Restore Deleted Files After Formatting? Insights From YL Software Specialists</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/maximizing-speed-expert-strategies-for-enhancing-windows-efficiency-yl-software-insights/"><u>Maximizing Speed: Expert Strategies for Enhancing Windows Efficiency - YL Software Insights</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-turn-your-memories-into-a-cinematic-video-experience/"><u>New 2024 Approved Turn Your Memories Into a Cinematic Video Experience</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/optimizing-your-bars-sing-off-showdown-expert-dj-insights-for-unparalleled-karaoke-nights/"><u>Optimizing Your Bar's Sing-Off Showdown: Expert DJ Insights for Unparalleled Karaoke Nights</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/perfecting-live-broadcasts-with-streamlabs-obs-tips-for-2024/"><u>Perfecting Live Broadcasts with Streamlabs OBS Tips for 2024</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/solving-the-mystery-of-the-blue-screen-a-step-by-step-guide-by-yl-computing/"><u>Solving the Mystery of the Blue Screen: A Step-by-Step Guide by YL Computing</u></a></li>
-<li><a href="https://fox-place.techidaily.com/step-by-step-guide-restore-unintentionally-removed-excel-data-without-cost/"><u>Step-by-Step Guide: Restore Unintentionally Removed Excel Data without Cost</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/troubleshooting-your-gpu-expert-tips-to-detect-and-fix-graphics-card-malfunctions-from-yl-tech-support/"><u>Troubleshooting Your GPU: Expert Tips to Detect and Fix Graphics Card Malfunctions From YL Tech Support</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unifying-your-visuals-how-to-color-match-video-clips-in-powerdirector/"><u>Updated In 2024, Unifying Your Visuals How to Color Match Video Clips in PowerDirector</u></a></li>
-<li><a href="https://win-guides.techidaily.com/top-5-professionalnyh-seo-kompanij-v-dzhidde-eksklyuzivnaya-vyborka-iz-saudovskoj-aravii/"><u>Топ-5 Профессиональных SEO-Компаний В Джидде: Эксклюзивная Выборка Из Саудовской Аравии</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-techniques-for-text-overlays-in-igtv-content/"><u>[New] Techniques for Text Overlays in IGTV Content</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-which-screen-recorder-delivers-more-insights-into-bandicam-vs-camtasia/"><u>[Updated] Which Screen Recorder Delivers More? Insights Into Bandicam vs Camtasia</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/1-boost-your-pcs-performance-essential-tips-to-clear-up-hard-drive-and-enhance-speeds-insights-by-yl-computing/"><u>1. Boost Your PC's Performance: Essential Tips to Clear Up Hard Drive and Enhance Speeds - Insights by YL Computing</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/comparing-windows-defender-vs-windows-security-understand-their-key-distinctions/"><u>Comparing Windows Defender Vs. Windows Security - Understand Their Key Distinctions</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/default-scanning-parameters-how-to-return-your-scanner-back-to-original-configuration-tech-tips-by-yl-computing/"><u>Default Scanning Parameters: How To Return Your Scanner Back To Original Configuration - Tech Tips by YL Computing</u></a></li>
+<li><a href="https://fox-links.techidaily.com/elite-20-unprotected-open-access-pubg-montages-for-2024/"><u>Elite 20 Unprotected, Open-Access PUBG Montages for 2024</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/guide-ensuring-your-emails-stay-private-secure-sending-techniques-with-gmail-and-outlook/"><u>Guide: Ensuring Your Emails Stay Private - Secure Sending Techniques with Gmail & Outlook</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/master-your-pcs-interface-personalizing-the-start-menu-simplified-expert-advice-from-yl-computing/"><u>Master Your PC's Interface: Personalizing the Start Menu Simplified - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/mastering-iphone-sky-photography-essential-tips-and-tricks/"><u>Mastering iPhone Sky Photography Essential Tips & Tricks</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/pioneering-tools-for-the-future-of-3d-model-and-animation-artistry-for-2024/"><u>Pioneering Tools for the Future of 3D Model & Animation Artistry for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/transform-your-footage-a-step-by-step-guide-to-ken-burns-effect-in-final-cut-pro-for-2024/"><u>Transform Your Footage A Step-by-Step Guide to Ken Burns Effect in Final Cut Pro for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/whats-hot-in-windows-the-complete-list-of-service-packs-for-july-2024/"><u>What's Hot in Windows: The Complete List of Service Packs for July 2024</u></a></li>
 </ul></div>
 
