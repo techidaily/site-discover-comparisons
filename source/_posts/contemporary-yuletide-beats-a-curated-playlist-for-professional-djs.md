@@ -1,7 +1,7 @@
 ---
 title: "Contemporary Yuletide Beats: A Curated Playlist for Professional DJs"
-date: 2024-12-22T22:58:17.371Z
-updated: 2024-12-24T08:00:12.303Z
+date: 2024-12-22T20:09:32.729Z
+updated: 2024-12-29T17:17:38.898Z
 tags:
   - product
 categories:
@@ -28,25 +28,25 @@ This **Christmas DJ playlist** comes from Monica Wright of About Class DJ Servic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2015 Christmas DJ Playlist
 
 ![60x60bb67](https://i0.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb67.jpg?resize=34%2C34) 1\. **Trans-Siberian Orchestra – _Christmas Eve Sarajevo_**
 
 ![60x60bb68](https://i0.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb68.jpg?resize=34%2C34) 2\. **Mariah Carey – _All I Want for Christmas_**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![60x60bb69](https://i1.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb69.jpg?resize=34%2C34) 3\. **Kelly Clarkson – _Underneath The Tree_**
 
 ![60x60bb70](https://i1.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb70.jpg?resize=34%2C34) 4. **Darlene Love – _All Alone on Christmas_**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![60x60bb71](https://i1.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb71.jpg?resize=34%2C34) 5\. **Paul Young – _What Christmas Means to Me_**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![60x60bb72](https://i0.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb72.jpg?resize=34%2C34) 6\. **Mariah Carey – _Christmas (Baby Please Come Home)_**
 
@@ -57,10 +57,14 @@ This **Christmas DJ playlist** comes from Monica Wright of About Class DJ Servic
 ![60x60bb75](https://i2.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb75.jpg?resize=34%2C34) 9\. **Trans-Siberian Orchestra – _Christmas Canon_**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![60x60bb76](https://i1.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb76.jpg?resize=34%2C34) 10\. **Whitney Houston – _Do You Hear What I Hear?_**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![60x60bb77](https://i2.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb77.jpg?resize=34%2C34) 11\. **Faith Hill – _Where Are You Christmas?_**
 
@@ -68,43 +72,39 @@ This **Christmas DJ playlist** comes from Monica Wright of About Class DJ Servic
 
 ![60x60bb79](https://i1.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb79.jpg?resize=34%2C34) 13\. **John Lennon – _Happy Xmas (War is Over)_**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![60x60bb80](https://i0.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb80.jpg?resize=34%2C34) 14\. **Billy Squier – _Christmas is the Time To Say “I Love You”_**
 
-![60x60bb81](https://i2.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb81.jpg?resize=34%2C34) 15\. **The Pretenders – _Have Yourself a Merry Little Christmas_**
-
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![60x60bb81](https://i2.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb81.jpg?resize=34%2C34) 15\. **The Pretenders – _Have Yourself a Merry Little Christmas_**
 
 ![60x60bb82](https://i1.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb82.jpg?resize=34%2C34) 16\. **Band Aid – _Do They Know It’s Christmas?_**
 
 ![60x60bb83](https://i2.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb83.jpg?resize=34%2C34) 17\. **Jackson 5 – _Santa Claus is Comin to Town_**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![60x60bb84](https://i1.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb84.jpg?resize=34%2C34) 18\. **Bruce Springsteen – _Merry Christmas Baby_**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![60x60bb85](https://i1.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb85.jpg?resize=34%2C34) 19\. **Jessica Simpson – _Rockin Around the Christmas Tree_**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![60x60bb94](https://i0.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb94.jpg?resize=34%2C34) 20\. **Bryan Adams – _Christmas Time_**
 
 ![60x60bb95](https://i0.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb95.jpg?resize=34%2C34) 21\. **NSync – _Merry Christmas Happy Holidays_**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![60x60bb96](https://i0.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb96.jpg?resize=34%2C34) 22\. **Elton John – _Step Into Christmas_**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### _Related_
 
@@ -125,20 +125,18 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/12/djchristmasplaylist-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-professional-streaming-best-devices-to-record-live-sessions/"><u>[New] Professional Streaming Best Devices to Record Live Sessions</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-tips-and-tricks-for-flawless-sims-4-recordings-for-2024/"><u>[New] Tips and Tricks for Flawless Sims 4 Recordings for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-earnings-breakdown-youtubes-adsense-payments-by-thousands-of-views/"><u>[Updated] 2024 Approved Earnings Breakdown Youtube's AdSense Payments by Thousands of Views</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-charting-the-financial-pathway-of-tseries-within-youtube-market-space/"><u>[Updated] In 2024, Charting the Financial Pathway of TSeries Within YouTube Market Space</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-in-2024-construct-humor-memes-via-adobe/"><u>[Updated] In 2024, Construct Humor Memes via Adobe</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/creating-a-zip-archive-a-step-by-step-guide-from-yl-computing/"><u>Creating a ZIP Archive - A Step-by-Step Guide From YL Computing</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/easily-navigate-to-your-windows-control-panel-with-our-expert-advice-from-yl-software/"><u>Easily Navigate to Your Windows Control Panel with Our Expert Advice From YL Software</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-use-device-manager-to-reinstall-drivers-in-windows-10-and-7-by-drivereasy-guide/"><u>How to use Device Manager to reinstall drivers in Windows 10 & 7</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/is-it-essential-to-perform-routine-updates-for-your-windows-defender-security-insights-by-yl-computing/"><u>Is It Essential To Perform Routine Updates For Your Windows Defender Security - Insights by YL Computing</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/premium-lion-designs-high-res-animals-widewallpapers-and-stunning-backgrounds-from-yl-software/"><u>Premium Lion Designs: High-Res Animals, Widewallpapers, and Stunning Backgrounds From YL Software</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/professional-emma-ray-norman-backdrops-for-pcs-macs-and-mobile-premium-collection-from-yl-software/"><u>Professional Emma Ray Norman Backdrops for PCs, Macs, and Mobile: Premium Collection From YL Software</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-the-ultimate-guide-to-the-latest-hardware/"><u>Tom's Tech Reviews: The Ultimate Guide to the Latest Hardware</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/troubleshooting-audio-issues-understanding-silent-windows-pcs-expert-advice-from-yl-computing/"><u>Troubleshooting Audio Issues: Understanding Silent Windows PCs - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/understanding-cryptocurrency-mechanics-a-guide-by-yl-computing/"><u>Understanding Cryptocurrency Mechanics: A Guide by YL Computing</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/updating-amd-video-adapters-tips-for-windows-7-8-and-11-users/"><u>Updating AMD Video Adapters: Tips for Windows 7, 8, and 11 Users</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-first-rate-6-software-for-visual-text-conversion/"><u>[New] 2024 Approved First-Rate 6 Software for Visual Text Conversion</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/riving-traffic-to-long-form-videos-via-shorts-for-2024/"><u>[New] Driving Traffic to Long-Form Videos via Shorts for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-seamless-changeover-a-comprehensive-list-of-free-transformer-tools/"><u>[New] Seamless Changeover A Comprehensive List of Free Transformer Tools</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-elevating-your-podcast-game-mastering-video-and-audio-techniques-on-zoom/"><u>2024 Approved Elevating Your Podcast Game Mastering Video and Audio Techniques on Zoom</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/adjusting-your-computers-mouse-configuration-via-control-panel-tutorial-by-yl-software/"><u>Adjusting Your Computer's Mouse Configuration via Control Panel - Tutorial by YL Software</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/boost-your-pcs-performance-expert-strategies-for-clearing-ram-on-windows-by-yl-software-experts/"><u>Boost Your PC's Performance: Expert Strategies for Clearing RAM on Windows by YL Software Experts</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/detect-and-eliminate-malware-on-your-pc-expert-guide-by-yl-computing/"><u>Detect & Eliminate Malware on Your PC: Expert Guide by YL Computing</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/discover-whats-next-in-music-mixing-with-dex-dj-new-app-preview-for-iphones-and-tablets/"><u>Discover What’s Next in Music Mixing with DEX DJ - New App Preview for iPhones & Tablets!</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-remove-restricted-mode-on-apple-iphone-6-by-drfone-ios/"><u>In 2024, How Do You Remove Restricted Mode on Apple iPhone 6</u></a></li>
+<li><a href="https://fox-access.techidaily.com/masterful-messaging-find-your-go-to-text-transcription-aids-for-2024/"><u>Masterful Messaging Find Your Go-To Text Transcription Aids for 2024</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/step-by-step-guide-turn-off-auto-start-applications-via-windows-control-panel-tips-from-yl-computing/"><u>Step-by-Step Guide: Turn Off Auto-Start Applications via Windows Control Panel - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/troubleshooting-lost-network-device-drivers-with-expert-tips-from-yl-software-team/"><u>Troubleshooting Lost Network Device Drivers with Expert Tips From YL Software Team</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/led-revelation-of-hidden-shorts-for-2024/"><u>Unveiled Revelation of Hidden Shorts for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Latest DEX #3 Release: Introducing a New User-Friendly Touchscreen Interface!"
-date: 2024-12-21T05:54:29.647Z
-updated: 2024-12-23T18:14:29.634Z
+date: 2024-12-25T16:49:23.123Z
+updated: 2024-12-29T19:55:07.826Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ This new 16:9 ratio “Touchy” skin is free for all DEX 3 users to download an
 _**Unzip Skin Files (Both Files) To Documents -> PCDJ-DEX3 -> Skins**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,17 +48,20 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/02/touchscreen-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-techniques-for-text-overlays-in-igtv-content/"><u>[New] Techniques for Text Overlays in IGTV Content</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-which-screen-recorder-delivers-more-insights-into-bandicam-vs-camtasia/"><u>[Updated] Which Screen Recorder Delivers More? Insights Into Bandicam vs Camtasia</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/1-boost-your-pcs-performance-essential-tips-to-clear-up-hard-drive-and-enhance-speeds-insights-by-yl-computing/"><u>1. Boost Your PC's Performance: Essential Tips to Clear Up Hard Drive and Enhance Speeds - Insights by YL Computing</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/comparing-windows-defender-vs-windows-security-understand-their-key-distinctions/"><u>Comparing Windows Defender Vs. Windows Security - Understand Their Key Distinctions</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/default-scanning-parameters-how-to-return-your-scanner-back-to-original-configuration-tech-tips-by-yl-computing/"><u>Default Scanning Parameters: How To Return Your Scanner Back To Original Configuration - Tech Tips by YL Computing</u></a></li>
-<li><a href="https://fox-links.techidaily.com/elite-20-unprotected-open-access-pubg-montages-for-2024/"><u>Elite 20 Unprotected, Open-Access PUBG Montages for 2024</u></a></li>
-<li><a href="https://discover-fantastic.techidaily.com/guide-ensuring-your-emails-stay-private-secure-sending-techniques-with-gmail-and-outlook/"><u>Guide: Ensuring Your Emails Stay Private - Secure Sending Techniques with Gmail & Outlook</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/master-your-pcs-interface-personalizing-the-start-menu-simplified-expert-advice-from-yl-computing/"><u>Master Your PC's Interface: Personalizing the Start Menu Simplified - Expert Advice From YL Computing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/mastering-iphone-sky-photography-essential-tips-and-tricks/"><u>Mastering iPhone Sky Photography Essential Tips & Tricks</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/pioneering-tools-for-the-future-of-3d-model-and-animation-artistry-for-2024/"><u>Pioneering Tools for the Future of 3D Model & Animation Artistry for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/transform-your-footage-a-step-by-step-guide-to-ken-burns-effect-in-final-cut-pro-for-2024/"><u>Transform Your Footage A Step-by-Step Guide to Ken Burns Effect in Final Cut Pro for 2024</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/whats-hot-in-windows-the-complete-list-of-service-packs-for-july-2024/"><u>What's Hot in Windows: The Complete List of Service Packs for July 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-optimizing-group-chats-with-google-meets-filtering-options/"><u>[Updated] 2024 Approved Optimizing Group Chats with Google Meet's Filtering Options</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-best-4k-tvs-top-ten-selection/"><u>[Updated] Best 4K TVs Top Ten Selection</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/diving-into-virtual-landscapes-a-guide-to-vr-tours-for-2024/"><u>Diving Into Virtual Landscapes A Guide to VR Tours for 2024</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/guida-per-correggere-i-problemi-con-il-backup-del-sistema-windows-11-quando-la-riparazione-fallisce/"><u>Guida per Correggere I Problemi Con Il Backup Del Sistema Windows 11 Quando La Riparazione Fallisce</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/how-to-resolve-the-win32-app-crash-issue-error-code-0xc000001-on-windows-11/"><u>How to Resolve the Win32 App Crash Issue - Error Code 0xC000001 on Windows 11</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/how-to-understand-and-update-a-vsphere-vcenter-digital-id/"><u>How to Understand and Update a vSphere vCenter Digital ID</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/how-to-upgrade-your-computer-by-migrating-from-an-old-to-a-new-machine-best-practices/"><u>How to Upgrade Your Computer by Migrating From an Old to a New Machine: Best Practices</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-nokia-c02-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Nokia C02 Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-expertise-guide-for-effective-text-overlays-on-images/"><u>In 2024, Expertise Guide for Effective Text Overlays on Images</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-intel-iris-plus-graphics-655-device-driver-on-windows-11-os/"><u>Install Intel Iris Plus Graphics 655 Device Driver on Windows 11 OS</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-crucial-elements-when-choosing-an-audio-editor-for-apple-computers/"><u>New In 2024, Crucial Elements When Choosing an Audio Editor for Apple Computers</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/schritt-fur-schritt-anleitung-zum-installieren-von-usmt-unter-windows-11-mit-einer-bequemen-alternativen-methode/"><u>Schritt-Für-Schritt-Anleitung Zum Installieren Von USMT Unter Windows 11 Mit Einer Bequemen Alternativen Methode</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/speichermangel-fuhrt-zum-scheitern-der-datensicherung-auf-dem-server/"><u>Speichermangel Führt Zum Scheitern Der Datensicherung Auf Dem Server</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-realme-v30t-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Realme V30T Phone Pattern Lock</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/1728502428245-windows-115/"><u>Windows 11パスワード紛失時に実行すべき5つの手順</u></a></li>
 </ul></div>
 
