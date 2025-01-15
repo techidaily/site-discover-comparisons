@@ -1,7 +1,7 @@
 ---
 title: "Latest DEX #3 Release: Introducing a New User-Friendly Touchscreen Interface!"
-date: 2024-12-25T16:49:23.123Z
-updated: 2024-12-29T19:55:07.826Z
+date: 2025-01-13T16:03:37.677Z
+updated: 2025-01-14T17:11:51.476Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ This new 16:9 ratio “Touchy” skin is free for all DEX 3 users to download an
 _**Unzip Skin Files (Both Files) To Documents -> PCDJ-DEX3 -> Skins**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,20 +48,16 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/02/touchscreen-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-optimizing-group-chats-with-google-meets-filtering-options/"><u>[Updated] 2024 Approved Optimizing Group Chats with Google Meet's Filtering Options</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-best-4k-tvs-top-ten-selection/"><u>[Updated] Best 4K TVs Top Ten Selection</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/diving-into-virtual-landscapes-a-guide-to-vr-tours-for-2024/"><u>Diving Into Virtual Landscapes A Guide to VR Tours for 2024</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/guida-per-correggere-i-problemi-con-il-backup-del-sistema-windows-11-quando-la-riparazione-fallisce/"><u>Guida per Correggere I Problemi Con Il Backup Del Sistema Windows 11 Quando La Riparazione Fallisce</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/how-to-resolve-the-win32-app-crash-issue-error-code-0xc000001-on-windows-11/"><u>How to Resolve the Win32 App Crash Issue - Error Code 0xC000001 on Windows 11</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/how-to-understand-and-update-a-vsphere-vcenter-digital-id/"><u>How to Understand and Update a vSphere vCenter Digital ID</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/how-to-upgrade-your-computer-by-migrating-from-an-old-to-a-new-machine-best-practices/"><u>How to Upgrade Your Computer by Migrating From an Old to a New Machine: Best Practices</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-does-nokia-c02-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Nokia C02 Have Find My Friends? | Dr.fone</u></a></li>
-<li><a href="https://fox-links.techidaily.com/in-2024-expertise-guide-for-effective-text-overlays-on-images/"><u>In 2024, Expertise Guide for Effective Text Overlays on Images</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/install-intel-iris-plus-graphics-655-device-driver-on-windows-11-os/"><u>Install Intel Iris Plus Graphics 655 Device Driver on Windows 11 OS</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-crucial-elements-when-choosing-an-audio-editor-for-apple-computers/"><u>New In 2024, Crucial Elements When Choosing an Audio Editor for Apple Computers</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/schritt-fur-schritt-anleitung-zum-installieren-von-usmt-unter-windows-11-mit-einer-bequemen-alternativen-methode/"><u>Schritt-Für-Schritt-Anleitung Zum Installieren Von USMT Unter Windows 11 Mit Einer Bequemen Alternativen Methode</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/speichermangel-fuhrt-zum-scheitern-der-datensicherung-auf-dem-server/"><u>Speichermangel Führt Zum Scheitern Der Datensicherung Auf Dem Server</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-realme-v30t-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Realme V30T Phone Pattern Lock</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/1728502428245-windows-115/"><u>Windows 11パスワード紛失時に実行すべき5つの手順</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-securing-visuals-the-method-of-concealing-details/"><u>[New] 2024 Approved Securing Visuals The Method of Concealing Details</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-podcast-introscape-audiophiles-melodic-treasure-trove/"><u>[New] Podcast Introscape Audiophile's Melodic Treasure Trove</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/comprendre-comment-cloner-un-ssd-avec-acronis-true-image-guide-complet/"><u>Comprendre Comment Cloner Un SSD Avec Acronis True Image : Guide Complet</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/enhancing-human-connections-intuition-robotics-boosts-social-bot-with-cutting-edge-generative-ai-technology-zdnet-insight/"><u>Enhancing Human Connections: Intuition Robotics Boosts Social Bot with Cutting-Edge Generative AI Technology - ZDNet Insight</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/enthusiast-revamps-faulty-lenovo-laptop-elevates-experience-with-premium-titanium-shell-and-clickity-click-mechanical-keys/"><u>Enthusiast Revamps Faulty Lenovo Laptop, Elevates Experience with Premium Titanium Shell & Clickity-Click Mechanical Keys</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/esperto-consiglio-per-ladozione-di-rsync-con-windows-un-tutorial-completo-sulla-soluzione-alternativa/"><u>Esperto Consiglio per L'adozione Di Rsync Con Windows - Un Tutorial Completo Sulla Soluzione Alternativa</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-some-outdated-hardware-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Identify some outdated hardware drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/illustrator/"><u>Illustrator檔恢復指南：這裡揭密七種有效技巧</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-device-camera-glitch-windows-error-a00f425d/"><u>Resolving Device Camera Glitch: Windows Error A00F425D</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/sofortige-datenwiederherstellung-mit-windows-easy-cloning-schnell-lernen-4-einfache-schritte-fur-die-bootpartitionsklonung/"><u>Sofortige Datenwiederherstellung Mit Windows Easy Cloning: Schnell Lernen - 4 Einfache Schritte Für Die Bootpartitionsklonung</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/undo-history-rewinding-videos-on-apple-devices/"><u>Undo History Rewinding Videos on Apple Devices</u></a></li>
 </ul></div>
 
