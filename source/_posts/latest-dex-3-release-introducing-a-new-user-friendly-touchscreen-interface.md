@@ -1,7 +1,7 @@
 ---
 title: "Latest DEX #3 Release: Introducing a New User-Friendly Touchscreen Interface!"
-date: 2025-01-13T16:03:37.677Z
-updated: 2025-01-14T17:11:51.476Z
+date: 2025-01-15T17:15:23.987Z
+updated: 2025-01-20T20:47:25.194Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ This new 16:9 ratio “Touchy” skin is free for all DEX 3 users to download an
 _**Unzip Skin Files (Both Files) To Documents -> PCDJ-DEX3 -> Skins**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,16 +48,18 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/02/touchscreen-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-securing-visuals-the-method-of-concealing-details/"><u>[New] 2024 Approved Securing Visuals The Method of Concealing Details</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/new-podcast-introscape-audiophiles-melodic-treasure-trove/"><u>[New] Podcast Introscape Audiophile's Melodic Treasure Trove</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/comprendre-comment-cloner-un-ssd-avec-acronis-true-image-guide-complet/"><u>Comprendre Comment Cloner Un SSD Avec Acronis True Image : Guide Complet</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/enhancing-human-connections-intuition-robotics-boosts-social-bot-with-cutting-edge-generative-ai-technology-zdnet-insight/"><u>Enhancing Human Connections: Intuition Robotics Boosts Social Bot with Cutting-Edge Generative AI Technology - ZDNet Insight</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/enthusiast-revamps-faulty-lenovo-laptop-elevates-experience-with-premium-titanium-shell-and-clickity-click-mechanical-keys/"><u>Enthusiast Revamps Faulty Lenovo Laptop, Elevates Experience with Premium Titanium Shell & Clickity-Click Mechanical Keys</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/esperto-consiglio-per-ladozione-di-rsync-con-windows-un-tutorial-completo-sulla-soluzione-alternativa/"><u>Esperto Consiglio per L'adozione Di Rsync Con Windows - Un Tutorial Completo Sulla Soluzione Alternativa</u></a></li>
-<li><a href="https://review-topics.techidaily.com/identify-some-outdated-hardware-drivers-with-windows-device-manager-in-windows-11107-by-drivereasy-guide/"><u>Identify some outdated hardware drivers with Windows Device Manager in Windows 11/10/7</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/illustrator/"><u>Illustrator檔恢復指南：這裡揭密七種有效技巧</u></a></li>
-<li><a href="https://win11.techidaily.com/resolving-device-camera-glitch-windows-error-a00f425d/"><u>Resolving Device Camera Glitch: Windows Error A00F425D</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/sofortige-datenwiederherstellung-mit-windows-easy-cloning-schnell-lernen-4-einfache-schritte-fur-die-bootpartitionsklonung/"><u>Sofortige Datenwiederherstellung Mit Windows Easy Cloning: Schnell Lernen - 4 Einfache Schritte Für Die Bootpartitionsklonung</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/undo-history-rewinding-videos-on-apple-devices/"><u>Undo History Rewinding Videos on Apple Devices</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-optimal-techniques-for-recording-your-youtube-events-for-2024/"><u>[New] Optimal Techniques for Recording Your YouTube Events for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-embarking-on-a-shared-tiktok-experience-your-instructional-path/"><u>[Updated] 2024 Approved Embarking on a Shared TikTok Experience Your Instructional Path</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-yi-4k-plus-action-camera-complete-review/"><u>[Updated] Yi 4K + Action Camera Complete Review</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-meme-madness-twitters-funniest-video-threads/"><u>2024 Approved Meme Madness Twitter's Funniest Video Threads</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/all-in-one-aomei-pxe-boot-software-ultimate-faq-guide/"><u>All-in-One AOMEI PXE Boot Software: Ultimate FAQ Guide</u></a></li>
+<li><a href="https://win-web3.techidaily.com/choosing-your-ai-sidekick-wisely-comparing-costs-and-benefits-of-microsoft-copilot-and-githubs-pro-version/"><u>Choosing Your AI Sidekick Wisely: Comparing Costs and Benefits of Microsoft Copilot and GitHub's Pro Version</u></a></li>
+<li><a href="https://games-able.techidaily.com/dive-into-the-world-of-pc-brands-asus-tuf-proart-vs-prime/"><u>Dive Into the World of PC Brands: Asus, Tuf, ProArt Vs. Prime</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-create-captivate-independent-animation-innovations/"><u>In 2024, Create, Captivate Independent Animation Innovations</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/passare-il-tuo-hard-disk-a-un-nuovo-pc-processo-semplice-per-windows-11-utenti/"><u>Passare Il Tuo Hard Disk a Un Nuovo PC: Processo Semplice per Windows 11 Utenti</u></a></li>
+<li><a href="https://fox-http.techidaily.com/picsart-shield-invisible-smile-vanished-gaze-for-2024/"><u>Picsart Shield Invisible Smile, Vanished Gaze for 2024</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/seamless-synology-and-qnap-to-synologyqnap-network-attached-storage-nas-data-backup-guide/"><u>Seamless Synology and QNAP to Synology/QNAP Network Attached Storage (NAS) Data Backup Guide</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/top-gratuit-logiciels-de-backup-en-nuage-pour-ordinateurs-securisez-votre-donnees/"><u>Top Gratuit Logiciels De Backup en Nuage Pour Ordinateurs - Sécurisez Votre Données</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/1728504776470-windows-server-2008/"><u>Windows Server 2008の冗長性とセキュリティを高める方法</u></a></li>
 </ul></div>
 
