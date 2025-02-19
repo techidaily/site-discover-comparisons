@@ -1,7 +1,7 @@
 ---
 title: "Latest DEX #3 Release: Introducing a New User-Friendly Touchscreen Interface!"
-date: 2025-01-15T17:15:23.987Z
-updated: 2025-01-20T20:47:25.194Z
+date: 2025-02-12T22:20:15.515Z
+updated: 2025-02-19T02:35:18.169Z
 tags:
   - product
 categories:
@@ -26,7 +26,7 @@ This new 16:9 ratio “Touchy” skin is free for all DEX 3 users to download an
 _**Unzip Skin Files (Both Files) To Documents -> PCDJ-DEX3 -> Skins**_
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -48,18 +48,19 @@ https://i0.wp.com/pcdj.com/wp-content/uploads/2015/02/touchscreen-coverimage.jpg
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-recording.techidaily.com/new-optimal-techniques-for-recording-your-youtube-events-for-2024/"><u>[New] Optimal Techniques for Recording Your YouTube Events for 2024</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-embarking-on-a-shared-tiktok-experience-your-instructional-path/"><u>[Updated] 2024 Approved Embarking on a Shared TikTok Experience Your Instructional Path</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-yi-4k-plus-action-camera-complete-review/"><u>[Updated] Yi 4K + Action Camera Complete Review</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-meme-madness-twitters-funniest-video-threads/"><u>2024 Approved Meme Madness Twitter's Funniest Video Threads</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/all-in-one-aomei-pxe-boot-software-ultimate-faq-guide/"><u>All-in-One AOMEI PXE Boot Software: Ultimate FAQ Guide</u></a></li>
-<li><a href="https://win-web3.techidaily.com/choosing-your-ai-sidekick-wisely-comparing-costs-and-benefits-of-microsoft-copilot-and-githubs-pro-version/"><u>Choosing Your AI Sidekick Wisely: Comparing Costs and Benefits of Microsoft Copilot and GitHub's Pro Version</u></a></li>
-<li><a href="https://games-able.techidaily.com/dive-into-the-world-of-pc-brands-asus-tuf-proart-vs-prime/"><u>Dive Into the World of PC Brands: Asus, Tuf, ProArt Vs. Prime</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-create-captivate-independent-animation-innovations/"><u>In 2024, Create, Captivate Independent Animation Innovations</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/passare-il-tuo-hard-disk-a-un-nuovo-pc-processo-semplice-per-windows-11-utenti/"><u>Passare Il Tuo Hard Disk a Un Nuovo PC: Processo Semplice per Windows 11 Utenti</u></a></li>
-<li><a href="https://fox-http.techidaily.com/picsart-shield-invisible-smile-vanished-gaze-for-2024/"><u>Picsart Shield Invisible Smile, Vanished Gaze for 2024</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/seamless-synology-and-qnap-to-synologyqnap-network-attached-storage-nas-data-backup-guide/"><u>Seamless Synology and QNAP to Synology/QNAP Network Attached Storage (NAS) Data Backup Guide</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/top-gratuit-logiciels-de-backup-en-nuage-pour-ordinateurs-securisez-votre-donnees/"><u>Top Gratuit Logiciels De Backup en Nuage Pour Ordinateurs - Sécurisez Votre Données</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/1728504776470-windows-server-2008/"><u>Windows Server 2008の冗長性とセキュリティを高める方法</u></a></li>
+<li><a href="https://some-tips.techidaily.com/updated-how-to-turn-off-youtube-video-preview-all-platform-solution/"><u>[Updated] How to Turn Off YouTube Video Preview? [All Platform Solution]</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-htc-u23-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone HTC U23 Phone? | Dr.fone</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/enhancing-system-efficiency-secure-techniques-for-pc-optimization-tips-from-yl-computing/"><u>Enhancing System Efficiency: Secure Techniques for PC Optimization - Tips From YL Computing</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/facing-an-unresponsive-keyboard-and-mouse-try-these-fixes-from-yl-software-experts/"><u>Facing an Unresponsive Keyboard and Mouse? Try These Fixes From YL Software Experts</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-infinix-smart-8-hd-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Infinix Smart 8 HD</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-realme-narzo-n55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Realme Narzo N55? | Dr.fone</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ry-youtubes-payment-scheme-for-creators-for-2024/"><u>Inquiry YouTube's Payment Scheme for Creators for 2024</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/mastering-windows-registry-tweaks-a-comprehensive-guide-by-yl-software-specialists/"><u>Mastering Windows Registry Tweaks: A Comprehensive Guide by YL Software Specialists</u></a></li>
+<li><a href="https://fox-that.techidaily.com/recovered-master-techniques-to-bring-back-deleted-notes-on-your-iphone-device/"><u>Recovered: Master Techniques to Bring Back Deleted Notes on Your iPhone Device</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/tips-for-effortless-sharing-of-musical-selections-for-2024/"><u>Tips for Effortless Sharing of Musical Selections for 2024</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/troubleshooting-and-solutions-for-blue-screen-errors-due-to-ram-problems-innovative-strategies-by-yl-software-experts/"><u>Troubleshooting and Solutions for Blue Screen Errors Due to RAM Problems - Innovative Strategies by YL Software Experts</u></a></li>
+<li><a href="https://fox-that.techidaily.com/ultimate-guide-solving-the-issue-of-yellow-cast-on-iphone-screens/"><u>Ultimate Guide: Solving the Issue of Yellow Cast on iPhone Screens</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/understanding-chinas-counter-espionage-measures-implications-for-rule-of-law-in-a-legally-structured-nation-analysis-by-yl-software/"><u>Understanding China’s Counter-Espionage Measures: Implications for Rule of Law in a Legally Structured Nation - Analysis by YL Software</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/unlock-the-power-of-djing-save-25-on-all-pcdj-software-july-5th-exclusive-offer/"><u>Unlock the Power of DJing: Save 25% on All PCDJ Software - July 5Th Exclusive Offer!</u></a></li>
 </ul></div>
 

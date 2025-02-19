@@ -1,7 +1,7 @@
 ---
 title: Data Restoration Tactics for Accidentally Formatted Drives – Even Without Previous Backups!
-date: 2024-12-09T16:16:02.433Z
-updated: 2024-12-15T03:01:50.653Z
+date: 2025-02-12T20:35:58.227Z
+updated: 2025-02-19T02:37:12.225Z
 categories:
   - AOMEI-Backuper
 thumbnail: https://thmb.techidaily.com/4b5562ff0db20c13529d0f69be32d5c21c69778a6a352420334c0743deb0bfe7.png
@@ -25,16 +25,12 @@ Scopri passaggi efficaci per risolvere il problema "non riesco a digitare nella 
 ![Aira](https://www.ubackup.com/assets/images/author/aira.jpg) 
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Da[Aira](https://tools.techidaily.com/ubackup/products/)L'ultimo Aggiornamento 31.01.2024
 
 Condividi questo: ![facebook](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-fb-24.svg) ![twitter](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-tw-24.svg) ![instagram](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-in-24.svg) ![reddit](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-share-reddit-24.svg) 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Sommario** 
 
@@ -57,6 +53,10 @@ Incontrare il problema di non poter digitare nella barra di ricerca di Windows 1
 
 [![non riesco a digitare nella barra di ricerca di windows 10](https://www.ubackup.com/it/articoli/data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)](https://www.ubackup.com/screenshot/it/others/log/can-t-type-in-search-bar-windows-10.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Capire il Problema di Non Poter Digitare nella Barra di Ricerca su Windows 10
 
 La barra di ricerca di Windows 10 funge da strumento centrale per un accesso rapido alle app, ai file e alle impostazioni. Quando ti ritrovi impossibilitato a digitare in questa funzione essenziale, sorgono preoccupazioni riguardo alla funzionalità del sistema e alla produttività. Le possibili cause di questo problema sono:
@@ -73,16 +73,12 @@ La corruzione dei file di sistema può influenzare la funzionalità della barra 
 
 Alcune applicazioni di terze parti o conflitti software potrebbero interferire con il corretto funzionamento della barra di ricerca.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Soluzioni: Ripristinare la Funzionalità della Barra di Ricerca di Windows 10
 
 Ora, esploriamo cinque soluzioni per affrontare il problema di non poter digitare nulla nella casella di ricerca su Windows 10, garantendo un'esperienza utente fluida.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Soluzione 1: Riavvio dei Servizi Cortana e Ricerca di Windows
@@ -153,10 +149,6 @@ Passo 3\. Installa gli Aggiornamenti:
 
 Se sono disponibili degli aggiornamenti, installali e riavvia il computer per verificare se l'errore di non poter digitare nella barra di ricerca di Windows 10 è stato risolto.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Soluzione 5: Crea un Nuovo Account Utente
 
 Passo 1\. Apri Impostazioni:
@@ -182,6 +174,10 @@ Esci dal tuo account attuale e accedi al nuovo account utente appena creato.
 Passo 6\. Testa la Barra di Ricerca:
 
 Nel nuovo account utente, testa la funzionalità della barra di ricerca. Se funziona, suggerisce che il problema potrebbe essere specifico del tuo account utente originale.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Utilizza AOMEI Backupper per la Protezione del Sistema su Windows 10
 
@@ -217,6 +213,10 @@ La ricostruzione dell'indice non influisce sui file, ma migliora la funzionalit�
 
 Sì, AOMEI Backupper fornisce una soluzione affidabile per il ripristino del sistema in caso di problemi.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Consigli per un'Operazione Fluida di Windows 10
 
 Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e correzioni.
@@ -224,10 +224,6 @@ Aggiorna regolarmente Windows per beneficiare degli ultimi miglioramenti e corre
 Utilizza strumenti di risoluzione dei problemi come AOMEI Backupper per affrontare prontamente i problemi.
 
 Monitora i servizi di sistema come Cortana e Ricerca di Windows per un funzionamento ottimale.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Conclusione
 
@@ -252,7 +248,7 @@ Le informazioni fornite sono state utili? Il tuo voto è importante per noi!
 [Sì](https://tools.techidaily.com/ubackup/products/)[No](https://tools.techidaily.com/ubackup/products/)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Scarica Gratis AOMEI Backupper Ora
@@ -262,6 +258,10 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 [**Scarica Gratuito**  Windows 11/10/8.1/8/7](https://tools.techidaily.com/ubackup/products/) 
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-ic-secure-16.svg) 100% Pulito e Sicuro
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![](https://www.ubackup.com/resource/images/ab-theme/ub-article-ab-medium-img-pc@2x.png)
 
@@ -280,16 +280,19 @@ Proteggi tutti i dati del tuo computer con backup, sincronizzazione e clonazione
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-acquiring-drone-racing-skills-and-exploring-top-fpv-drones/"><u>[New] In 2024, Acquiring Drone Racing Skills & Exploring Top FPV Drones</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-showcasing-8-online-marvels-3d-and-luxurious-text-visuals-for-2024/"><u>[Updated] Showcasing 8 Online Marvels 3D & Luxurious Text Visuals for 2024</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/changing-browser-text-size-a-comprehensive-guide-by-yl-computing/"><u>Changing Browser Text Size: A Comprehensive Guide by YL Computing</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/demystifying-memory-dump-events-uncover-the-reasons-behind-them-a-guide-by-yl-software-experts/"><u>Demystifying Memory Dump Events: Uncover the Reasons Behind Them - A Guide by YL Software Experts</u></a></li>
-<li><a href="https://solve-news.techidaily.com/elevate-your-teams-performance-with-predictive-analysis-the-three-key-ways-sales-and-marketing-win-powered-by-abbyy-thought-leadership/"><u>Elevate Your Team's Performance with Predictive Analysis: The Three Key Ways Sales & Marketing Win | Powered by ABBYY Thought Leadership</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/fixing-pc-problems-by-restoring-bios-configuration-a-step-by-step-guide-for-windows-users-tips-from-yl-computing/"><u>Fixing PC Problems by Restoring BIOS Configuration: A Step-by-Step Guide for Windows Users - Tips From YL Computing</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-a34-5g-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Samsung Galaxy A34 5G | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-unlocking-made-easy-the-best-10-apps-for-unlocking-your-honor-device-by-drfone-android/"><u>In 2024, Unlocking Made Easy The Best 10 Apps for Unlocking Your Honor Device</u></a></li>
-<li><a href="https://extra-information.techidaily.com/social-media-artistry-instantaneous-image-tapestry-creation/"><u>Social Media Artistry Instantaneous Image Tapestry Creation</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/troubleshooting-display-issues-attributed-to-graphics-cards-with-tips-from-yl-software-experts/"><u>Troubleshooting Display Issues Attributed to Graphics Cards with Tips From YL Software Experts</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/unlocking-potential-in-the-office-combine-onlyoffices-docspace-features-with-chatgpt-for-better-results/"><u>Unlocking Potential in the Office: Combine ONLYOFFICE's DocSpace Features With ChatGPT for Better Results</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-optimal-low-cost-screen-recording-options-for-chromebook/"><u>[New] 2024 Approved Optimal Low-Cost Screen Recording Options for Chromebook</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-quintessential-10-fight-royale-jams/"><u>[New] 2024 Approved Quintessential 10 Fight Royale Jams</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-setting-up-your-mac-for-flawless-minecraft-sessions/"><u>[New] 2024 Approved Setting Up Your Mac for Flawless Minecraft Sessions</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-melodious-modulation-techniques-in-free-fire/"><u>[Updated] In 2024, Melodious Modulation Techniques in Free Fire</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/2-effiziente-methoden-zum-erstellen-eines-windows-11-systemabbildes/"><u>2 Effiziente Methoden Zum Erstellen Eines Windows 11 Systemabbildes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726227010379-movavi-movavi/"><u>无成本的在线MOV文件转换为AVI - 利用Movavi服务</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/clonare-il-tuo-sistema-windows-10-in-modo-semplice-e-sicuro-usando-clonezilla/"><u>Clonare Il Tuo Sistema Windows 10 in Modo Semplice E Sicuro Usando Clonezilla</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/complete-guide-to-unformatted-file-retrieval-in-windows-operating-systems-windows-10-8-and-7/"><u>Complete Guide to Unformatted File Retrieval in Windows Operating Systems (Windows 10, 8, & 7)</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/configuring-regular-backup-jobs-in-aomei-backupper-for-macos-systems/"><u>Configuring Regular Backup Jobs in AOMEI Backupper for macOS Systems</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/effortless-file-transfer-from-pc-to-mac-without-using-migration-assistant/"><u>Effortless File Transfer From PC to Mac without Using Migration Assistant</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-honor-80-pro-straight-screen-edition-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Honor 80 Pro Straight Screen Edition</u></a></li>
+<li><a href="https://review-topics.techidaily.com/mov-to-motorola-converter-convert-mov-files-for-motorola-by-aiseesoft-video-converter-play-mov-on-android/"><u>MOV to Motorola converter-convert .mov files for Motorola</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-send-local-videos-to-chromecast-easy-setup-for-windows-mac-android-and-ios/"><u>New In 2024, Send Local Videos to Chromecast Easy Setup for Windows, Mac, Android, and iOS</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-xiaomi-redmi-note-13-pro-5g-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Xiaomi Redmi Note 13 Pro 5G has been deleted</u></a></li>
 </ul></div>
 

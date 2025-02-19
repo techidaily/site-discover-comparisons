@@ -1,7 +1,7 @@
 ---
 title: "Contemporary Yuletide Beats: A Curated Playlist for Professional DJs"
-date: 2025-02-01T20:08:54.090Z
-updated: 2025-02-08T16:04:42.434Z
+date: 2025-02-14T16:54:04.173Z
+updated: 2025-02-19T00:55:29.628Z
 tags:
   - product
 categories:
@@ -28,39 +28,19 @@ This **Christmas DJ playlist** comes from Monica Wright of About Class DJ Servic
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 2015 Christmas DJ Playlist
 
 ![60x60bb67](https://i0.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb67.jpg?resize=34%2C34) 1\. **Trans-Siberian Orchestra – _Christmas Eve Sarajevo_**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ![60x60bb68](https://i0.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb68.jpg?resize=34%2C34) 2\. **Mariah Carey – _All I Want for Christmas_**
 
 ![60x60bb69](https://i1.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb69.jpg?resize=34%2C34) 3\. **Kelly Clarkson – _Underneath The Tree_**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![60x60bb70](https://i1.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb70.jpg?resize=34%2C34) 4. **Darlene Love – _All Alone on Christmas_**
 
 ![60x60bb71](https://i1.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb71.jpg?resize=34%2C34) 5\. **Paul Young – _What Christmas Means to Me_**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![60x60bb72](https://i0.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb72.jpg?resize=34%2C34) 6\. **Mariah Carey – _Christmas (Baby Please Come Home)_**
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 7\. **Jon Bon Jovi – _Please Come Home for Christmas_**
 
@@ -68,7 +48,15 @@ This **Christmas DJ playlist** comes from Monica Wright of About Class DJ Servic
 
 ![60x60bb75](https://i2.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb75.jpg?resize=34%2C34) 9\. **Trans-Siberian Orchestra – _Christmas Canon_**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![60x60bb76](https://i1.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb76.jpg?resize=34%2C34) 10\. **Whitney Houston – _Do You Hear What I Hear?_**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![60x60bb77](https://i2.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb77.jpg?resize=34%2C34) 11\. **Faith Hill – _Where Are You Christmas?_**
 
@@ -79,16 +67,16 @@ This **Christmas DJ playlist** comes from Monica Wright of About Class DJ Servic
 ![60x60bb80](https://i0.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb80.jpg?resize=34%2C34) 14\. **Billy Squier – _Christmas is the Time To Say “I Love You”_**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![60x60bb81](https://i2.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb81.jpg?resize=34%2C34) 15\. **The Pretenders – _Have Yourself a Merry Little Christmas_**
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ![60x60bb82](https://i1.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb82.jpg?resize=34%2C34) 16\. **Band Aid – _Do They Know It’s Christmas?_**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![60x60bb83](https://i2.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb83.jpg?resize=34%2C34) 17\. **Jackson 5 – _Santa Claus is Comin to Town_**
 
@@ -96,14 +84,26 @@ This **Christmas DJ playlist** comes from Monica Wright of About Class DJ Servic
 
 ![60x60bb85](https://i1.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb85.jpg?resize=34%2C34) 19\. **Jessica Simpson – _Rockin Around the Christmas Tree_**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![60x60bb94](https://i0.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb94.jpg?resize=34%2C34) 20\. **Bryan Adams – _Christmas Time_**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![60x60bb95](https://i0.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb95.jpg?resize=34%2C34) 21\. **NSync – _Merry Christmas Happy Holidays_**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ![60x60bb96](https://i0.wp.com/wac.450f.edgecastcdn.net/80450F/943thepoint.com/files/2015/12/60x60bb96.jpg?resize=34%2C34) 22\. **Elton John – _Step Into Christmas_**
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### _Related_
@@ -125,18 +125,15 @@ https://i1.wp.com/pcdj.com/wp-content/uploads/2015/12/djchristmasplaylist-coveri
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-top-budget-friendly-cam-stream-viewer/"><u>[New] Top Budget-Friendly Cam Stream Viewer</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-marketing-magic-in-metaverse/"><u>2024 Approved Mastering Marketing Magic in Metaverse</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/craft-a-masterpiece-top-8-iphone-drawing-apps-reviewed-for-2024/"><u>Craft a Masterpiece Top 8 iPhone Drawing Apps Reviewed for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/cutting-edge-fb-video-creators-20-free-apps-for-marketers-for-2024/"><u>Cutting-Edge FB Video Creators 20 Free Apps for Marketers for 2024</u></a></li>
-<li><a href="https://win-able.techidaily.com/fixing-not-responding-errors-in-minecraft-on-your-computer/"><u>Fixing 'Not Responding' Errors in Minecraft on Your Computer</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/fotografien-in-das-jpeg-format-auf-ios-umwandeln-losungsweg/"><u>Fotografien in Das JPEG-Format Auf iOS Umwandeln - Lösungsweg</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/1728497288530-gmail3/"><u>Gmailから消えたメールの回復方法：3つの手順ガイド</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/in-depth-comparison-how-does-veeam-stack-up-against-cohesity/"><u>In-Depth Comparison: How Does Veeam Stack Up Against Cohesity?</u></a></li>
-<li><a href="https://discover-comparisons.techidaily.com/restore-access-to-your-data-a-step-by-step-guide-on-reviving-an-unreadable-external-hdd-via-command-prompt-for-windows-users/"><u>Restore Access to Your Data: A Step-by-Step Guide on Reviving an Unreadable External HDD via Command Prompt for Windows Users</u></a></li>
-<li><a href="https://windows11.techidaily.com/streamlined-methods-deleting-saved-wi-fi-in-win-11/"><u>Streamlined Methods: Deleting Saved Wi-Fi in Win 11</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-12-pro-you-should-try-out-by-drfone-ios/"><u>The 10 Best Tools to Bypass iCloud Activation Lock From iPhone 12 Pro You Should Try Out</u></a></li>
-<li><a href="https://howto.techidaily.com/want-to-uninstall-google-play-service-from-oppo-reno-11-5g-here-is-how-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Want to Uninstall Google Play Service from Oppo Reno 11 5G? Here is How | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/what-is-huggingchat-the-open-source-alternative-to-chatgpt/"><u>What Is HuggingChat? The Open-Source Alternative to ChatGPT</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-demystifying-instagram-story-sections-for-2024/"><u>[New] Demystifying Instagram Story Sections for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-monetizing-mastery-harness-the-power-of-your-youtube-content-on-mobile-for-2024/"><u>[Updated] Monetizing Mastery Harness the Power of Your YouTube Content on Mobile for 2024</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/download-the-white-dashboard-template-for-laravel-no-cost-professional-uiux-by-creative-tim/"><u>Download the White Dashboard Template for Laravel – No Cost, Professional UI/UX by Creative Tim</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/download-top-11plus-advanced-tailwind-css-designs-by-creative-tim-enhance-your-web-development/"><u>Download Top 11+ Advanced Tailwind CSS Designs by Creative Tim: Enhance Your Web Development!</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/download-your-free-pre-built-laravel-frontend-with-creativetims-now-ui-template/"><u>Download Your Free Pre-Built Laravel Frontend with @CreativeTim's Now UI Template</u></a></li>
+<li><a href="https://discover-comparisons.techidaily.com/explore-more-than-94-customizable-ui-frameworks-from-creative-tims-libraries/"><u>Explore More than 94 Customizable UI Frameworks From Creative Tim's Libraries</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-realme-c67-5g-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Realme C67 5G | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-step-by-step-screen-capture-on-apple-device/"><u>In 2024, Step-by-Step Screen Capture on Apple Device</u></a></li>
+<li><a href="https://extra-support.techidaily.com/speak-out-leverage-ai-gratis-for-2024/"><u>Speak Out, Leverage AI Gratis for 2024</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-mastering-gopro-footage-a-step-by-step-mac-editing-guide/"><u>Updated In 2024, Mastering GoPro Footage A Step-by-Step Mac Editing Guide</u></a></li>
 </ul></div>
 
